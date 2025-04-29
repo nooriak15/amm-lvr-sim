@@ -4,7 +4,7 @@ const { plot } = require("nodeplotlib");
 
 // Simulate external CEX price with small random shocks
 function evolveExternalPrice(currentPrice) {
-    const volatility = 0.02; // 2% max random move per trade
+    const volatility = 0.02;
     const randomShock = (Math.random() - 0.5) * 2 * volatility;
     return currentPrice * (1 + randomShock);
 }
@@ -51,18 +51,27 @@ async function main() {
 
     for (let i = 1; i <= 500; i++) {
         externalPrice = evolveExternalPrice(externalPrice);
+
         const noiseTradeAmount = Math.floor(Math.random() * 5000) + 1;
-        await amm.swap(noiseTradeAmount);
+        const isBuy = Math.random() < 0.5; // 50% chance buy or sell
 
-        const dx = noiseTradeAmount;
-        const dxEff = dx * feeMultiplier;
-        const dy = reserve1 * dxEff / (reserve0 + dxEff);
+        if (isBuy) {
+            // Trader swaps token0 for token1 (buy token1)
+            await amm.swap(noiseTradeAmount);
+            const dxEff = noiseTradeAmount * feeMultiplier;
+            const dy = reserve1 * dxEff / (reserve0 + dxEff);
+            reserve0 += dxEff;
+            reserve1 -= dy;
+        } else {
+            // Trader swaps token1 for token0 (buy token0) — simulated manually
+            const dyEff = noiseTradeAmount * feeMultiplier;
+            const dx = reserve0 * dyEff / (reserve1 + dyEff);
+            reserve1 += dyEff;
+            reserve0 -= dx;
+        }
 
-        reserve0 += dxEff;
-        reserve1 -= dy;
-
+        // Arbitrage step
         const { direction, amount } = computeArbitrageSwap(reserve0, reserve1, externalPrice);
-
         if (direction === "buyToken0" && amount > 0) {
             const amountEff = amount * feeMultiplier;
             const dyArb = reserve1 * amountEff / (reserve0 + amountEff);
@@ -92,7 +101,7 @@ async function main() {
     fs.writeFileSync("trade_data.json", JSON.stringify(data, null, 2));
     console.log("✅ trade_data.json saved");
 
-    // === PLOT ===
+    // Plot prices
     const tradeNumbers = data.map(d => d.tradeNumber);
     const ammPrices = data.map(d => d.amm_price);
     const externalPrices = data.map(d => d.external_price);
@@ -112,7 +121,7 @@ async function main() {
     };
 
     plot([traceAMM, traceExternal], {
-        title: 'AMM vs External Price',
+        title: 'AMM vs External Price (Baseline)',
         xaxis: { title: 'Trade Number' },
         yaxis: { title: 'Price' }
     });

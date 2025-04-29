@@ -1,0 +1,3502 @@
+[
+  {
+    "tradeNumber": 1,
+    "timestamp": 1745956589,
+    "amm_price": 1.0166845557217234,
+    "external_price": 1.016847551248712,
+    "trade_size": 1896
+  },
+  {
+    "tradeNumber": 2,
+    "timestamp": 1745956590,
+    "amm_price": 0.9980063872123262,
+    "external_price": 0.9981126590834263,
+    "trade_size": 2735
+  },
+  {
+    "tradeNumber": 3,
+    "timestamp": 1745956591,
+    "amm_price": 0.999097927128834,
+    "external_price": 0.9992959294285564,
+    "trade_size": 3362
+  },
+  {
+    "tradeNumber": 4,
+    "timestamp": 1745956592,
+    "amm_price": 0.985763821742417,
+    "external_price": 0.9859125433587825,
+    "trade_size": 3274
+  },
+  {
+    "tradeNumber": 5,
+    "timestamp": 1745956593,
+    "amm_price": 0.9780495548780737,
+    "external_price": 0.9780530569624607,
+    "trade_size": 458
+  },
+  {
+    "tradeNumber": 6,
+    "timestamp": 1745956594,
+    "amm_price": 0.9834961487525243,
+    "external_price": 0.9836458977168658,
+    "trade_size": 2344
+  },
+  {
+    "tradeNumber": 7,
+    "timestamp": 1745956595,
+    "amm_price": 0.9720228291445766,
+    "external_price": 0.9720580845156542,
+    "trade_size": 1212
+  },
+  {
+    "tradeNumber": 8,
+    "timestamp": 1745956596,
+    "amm_price": 0.9677003454808285,
+    "external_price": 0.9679120980708499,
+    "trade_size": 4074
+  },
+  {
+    "tradeNumber": 9,
+    "timestamp": 1745956597,
+    "amm_price": 0.9540669618785181,
+    "external_price": 0.9540523732618831,
+    "trade_size": 465
+  },
+  {
+    "tradeNumber": 10,
+    "timestamp": 1745956598,
+    "amm_price": 0.9560643499678403,
+    "external_price": 0.9562989092954973,
+    "trade_size": 4252
+  },
+  {
+    "tradeNumber": 11,
+    "timestamp": 1745956599,
+    "amm_price": 0.9574362368251214,
+    "external_price": 0.9575887288111593,
+    "trade_size": 2713
+  },
+  {
+    "tradeNumber": 12,
+    "timestamp": 1745956600,
+    "amm_price": 0.9442672571730512,
+    "external_price": 0.9442885760314976,
+    "trade_size": 1101
+  },
+  {
+    "tradeNumber": 13,
+    "timestamp": 1745956601,
+    "amm_price": 0.9549816094916392,
+    "external_price": 0.9552440413550439,
+    "trade_size": 4330
+  },
+  {
+    "tradeNumber": 14,
+    "timestamp": 1745956602,
+    "amm_price": 0.9657741527367286,
+    "external_price": 0.9658311670967185,
+    "trade_size": 436
+  },
+  {
+    "tradeNumber": 15,
+    "timestamp": 1745956603,
+    "amm_price": 0.9780009534047415,
+    "external_price": 0.9781001702515796,
+    "trade_size": 1099
+  },
+  {
+    "tradeNumber": 16,
+    "timestamp": 1745956604,
+    "amm_price": 0.9809186049764244,
+    "external_price": 0.981100413720658,
+    "trade_size": 3067
+  },
+  {
+    "tradeNumber": 17,
+    "timestamp": 1745956605,
+    "amm_price": 0.9796468661824212,
+    "external_price": 0.9797062034564405,
+    "trade_size": 1096
+  },
+  {
+    "tradeNumber": 18,
+    "timestamp": 1745956606,
+    "amm_price": 0.9737005391150578,
+    "external_price": 0.9739390208991408,
+    "trade_size": 4621
+  },
+  {
+    "tradeNumber": 19,
+    "timestamp": 1745956607,
+    "amm_price": 0.9565224377692797,
+    "external_price": 0.9567206124181022,
+    "trade_size": 4565
+  },
+  {
+    "tradeNumber": 20,
+    "timestamp": 1745956608,
+    "amm_price": 0.9395192896994273,
+    "external_price": 0.9395379234835546,
+    "trade_size": 1266
+  },
+  {
+    "tradeNumber": 21,
+    "timestamp": 1745956609,
+    "amm_price": 0.9576899802387006,
+    "external_price": 0.9578170928863939,
+    "trade_size": 1325
+  },
+  {
+    "tradeNumber": 22,
+    "timestamp": 1745956610,
+    "amm_price": 0.9496930242031935,
+    "external_price": 0.9498785214496168,
+    "trade_size": 3883
+  },
+  {
+    "tradeNumber": 23,
+    "timestamp": 1745956611,
+    "amm_price": 0.953679950012109,
+    "external_price": 0.953900139221558,
+    "trade_size": 3882
+  },
+  {
+    "tradeNumber": 24,
+    "timestamp": 1745956612,
+    "amm_price": 0.9415190659869324,
+    "external_price": 0.9417220164068757,
+    "trade_size": 4501
+  },
+  {
+    "tradeNumber": 25,
+    "timestamp": 1745956613,
+    "amm_price": 0.9366852218934173,
+    "external_price": 0.9367990424096768,
+    "trade_size": 2402
+  },
+  {
+    "tradeNumber": 26,
+    "timestamp": 1745956614,
+    "amm_price": 0.951787920360017,
+    "external_price": 0.952077778642809,
+    "trade_size": 4654
+  },
+  {
+    "tradeNumber": 27,
+    "timestamp": 1745956615,
+    "amm_price": 0.9448471003369008,
+    "external_price": 0.9450901901520807,
+    "trade_size": 4985
+  },
+  {
+    "tradeNumber": 28,
+    "timestamp": 1745956616,
+    "amm_price": 0.9470133630259456,
+    "external_price": 0.9470673726364381,
+    "trade_size": 868
+  },
+  {
+    "tradeNumber": 29,
+    "timestamp": 1745956617,
+    "amm_price": 0.9390555059334914,
+    "external_price": 0.9390473271416522,
+    "trade_size": 286
+  },
+  {
+    "tradeNumber": 30,
+    "timestamp": 1745956618,
+    "amm_price": 0.9229366284749859,
+    "external_price": 0.9229172678747183,
+    "trade_size": 536
+  },
+  {
+    "tradeNumber": 31,
+    "timestamp": 1745956619,
+    "amm_price": 0.9197221143365751,
+    "external_price": 0.9198634093878149,
+    "trade_size": 2922
+  },
+  {
+    "tradeNumber": 32,
+    "timestamp": 1745956620,
+    "amm_price": 0.9320083402036315,
+    "external_price": 0.9322217236531657,
+    "trade_size": 3417
+  },
+  {
+    "tradeNumber": 33,
+    "timestamp": 1745956621,
+    "amm_price": 0.9266439561314643,
+    "external_price": 0.926798498474439,
+    "trade_size": 3270
+  },
+  {
+    "tradeNumber": 34,
+    "timestamp": 1745956622,
+    "amm_price": 0.9433071212152911,
+    "external_price": 0.9433990807069856,
+    "trade_size": 776
+  },
+  {
+    "tradeNumber": 35,
+    "timestamp": 1745956623,
+    "amm_price": 0.9355907936190752,
+    "external_price": 0.9357274341790518,
+    "trade_size": 3004
+  },
+  {
+    "tradeNumber": 36,
+    "timestamp": 1745956624,
+    "amm_price": 0.9511087674873903,
+    "external_price": 0.951400572533745,
+    "trade_size": 4675
+  },
+  {
+    "tradeNumber": 37,
+    "timestamp": 1745956625,
+    "amm_price": 0.9477589114218214,
+    "external_price": 0.9477734013591397,
+    "trade_size": 444
+  },
+  {
+    "tradeNumber": 38,
+    "timestamp": 1745956626,
+    "amm_price": 0.9658648935138632,
+    "external_price": 0.9661252964704251,
+    "trade_size": 3816
+  },
+  {
+    "tradeNumber": 39,
+    "timestamp": 1745956627,
+    "amm_price": 0.9685071123499449,
+    "external_price": 0.9685627532394885,
+    "trade_size": 843
+  },
+  {
+    "tradeNumber": 40,
+    "timestamp": 1745956628,
+    "amm_price": 0.9815148348862502,
+    "external_price": 0.9817749102738949,
+    "trade_size": 3985
+  },
+  {
+    "tradeNumber": 41,
+    "timestamp": 1745956629,
+    "amm_price": 0.9684932388364177,
+    "external_price": 0.9686837442645152,
+    "trade_size": 4122
+  },
+  {
+    "tradeNumber": 42,
+    "timestamp": 1745956630,
+    "amm_price": 0.9542256661524453,
+    "external_price": 0.9544250409847947,
+    "trade_size": 4452
+  },
+  {
+    "tradeNumber": 43,
+    "timestamp": 1745956631,
+    "amm_price": 0.9687310904890312,
+    "external_price": 0.9688656518726766,
+    "trade_size": 1636
+  },
+  {
+    "tradeNumber": 44,
+    "timestamp": 1745956632,
+    "amm_price": 0.9797163283781392,
+    "external_price": 0.9799683684715251,
+    "trade_size": 3952
+  },
+  {
+    "tradeNumber": 45,
+    "timestamp": 1745956633,
+    "amm_price": 0.988424422267053,
+    "external_price": 0.9885890432809742,
+    "trade_size": 2424
+  },
+  {
+    "tradeNumber": 46,
+    "timestamp": 1745956634,
+    "amm_price": 0.9923194990930021,
+    "external_price": 0.9924522576994075,
+    "trade_size": 2091
+  },
+  {
+    "tradeNumber": 47,
+    "timestamp": 1745956635,
+    "amm_price": 0.994991328550907,
+    "external_price": 0.995105260793551,
+    "trade_size": 1815
+  },
+  {
+    "tradeNumber": 48,
+    "timestamp": 1745956636,
+    "amm_price": 1.001810591734929,
+    "external_price": 1.0019431522248854,
+    "trade_size": 1910
+  },
+  {
+    "tradeNumber": 49,
+    "timestamp": 1745956637,
+    "amm_price": 1.013879857228196,
+    "external_price": 1.0140023244434,
+    "trade_size": 1442
+  },
+  {
+    "tradeNumber": 50,
+    "timestamp": 1745956638,
+    "amm_price": 1.007822539271439,
+    "external_price": 1.0079988449264903,
+    "trade_size": 3290
+  },
+  {
+    "tradeNumber": 51,
+    "timestamp": 1745956639,
+    "amm_price": 1.0230981551217684,
+    "external_price": 1.0233309105417443,
+    "trade_size": 3147
+  },
+  {
+    "tradeNumber": 52,
+    "timestamp": 1745956640,
+    "amm_price": 1.0278323128290192,
+    "external_price": 1.0280205828625053,
+    "trade_size": 2877
+  },
+  {
+    "tradeNumber": 53,
+    "timestamp": 1745956641,
+    "amm_price": 1.0451990670363602,
+    "external_price": 1.0455138126875922,
+    "trade_size": 4342
+  },
+  {
+    "tradeNumber": 54,
+    "timestamp": 1745956642,
+    "amm_price": 1.0413920414683562,
+    "external_price": 1.0414268431778653,
+    "trade_size": 728
+  },
+  {
+    "tradeNumber": 55,
+    "timestamp": 1745956643,
+    "amm_price": 1.048477268673217,
+    "external_price": 1.048739527943088,
+    "trade_size": 3915
+  },
+  {
+    "tradeNumber": 56,
+    "timestamp": 1745956644,
+    "amm_price": 1.0541987048678865,
+    "external_price": 1.0544301291381857,
+    "trade_size": 3432
+  },
+  {
+    "tradeNumber": 57,
+    "timestamp": 1745956645,
+    "amm_price": 1.036160165826911,
+    "external_price": 1.0361255086321433,
+    "trade_size": 299
+  },
+  {
+    "tradeNumber": 58,
+    "timestamp": 1745956646,
+    "amm_price": 1.024482248716226,
+    "external_price": 1.024601891713467,
+    "trade_size": 2521
+  },
+  {
+    "tradeNumber": 59,
+    "timestamp": 1745956647,
+    "amm_price": 1.0304223849326548,
+    "external_price": 1.0306702715114529,
+    "trade_size": 3828
+  },
+  {
+    "tradeNumber": 60,
+    "timestamp": 1745956648,
+    "amm_price": 1.0342850875253151,
+    "external_price": 1.034419137561223,
+    "trade_size": 1986
+  },
+  {
+    "tradeNumber": 61,
+    "timestamp": 1745956649,
+    "amm_price": 1.0393113632009243,
+    "external_price": 1.0394081756533642,
+    "trade_size": 1308
+  },
+  {
+    "tradeNumber": 62,
+    "timestamp": 1745956650,
+    "amm_price": 1.0434639909901005,
+    "external_price": 1.0436011192704462,
+    "trade_size": 1996
+  },
+  {
+    "tradeNumber": 63,
+    "timestamp": 1745956651,
+    "amm_price": 1.0459109622680416,
+    "external_price": 1.0461149031786778,
+    "trade_size": 3169
+  },
+  {
+    "tradeNumber": 64,
+    "timestamp": 1745956652,
+    "amm_price": 1.0587970841926544,
+    "external_price": 1.0588452630397287,
+    "trade_size": 144
+  },
+  {
+    "tradeNumber": 65,
+    "timestamp": 1745956653,
+    "amm_price": 1.0746132952785838,
+    "external_price": 1.0747155875818768,
+    "trade_size": 835
+  },
+  {
+    "tradeNumber": 66,
+    "timestamp": 1745956654,
+    "amm_price": 1.060549470624052,
+    "external_price": 1.0605841166232457,
+    "trade_size": 1171
+  },
+  {
+    "tradeNumber": 67,
+    "timestamp": 1745956655,
+    "amm_price": 1.0687951906746536,
+    "external_price": 1.0690871223160348,
+    "trade_size": 4236
+  },
+  {
+    "tradeNumber": 68,
+    "timestamp": 1745956656,
+    "amm_price": 1.0709348357844233,
+    "external_price": 1.071237284066396,
+    "trade_size": 4675
+  },
+  {
+    "tradeNumber": 69,
+    "timestamp": 1745956657,
+    "amm_price": 1.084337435134814,
+    "external_price": 1.084577137812854,
+    "trade_size": 3072
+  },
+  {
+    "tradeNumber": 70,
+    "timestamp": 1745956658,
+    "amm_price": 1.074923203699268,
+    "external_price": 1.075018480951097,
+    "trade_size": 1867
+  },
+  {
+    "tradeNumber": 71,
+    "timestamp": 1745956659,
+    "amm_price": 1.0611178246332824,
+    "external_price": 1.0613175623141116,
+    "trade_size": 3771
+  },
+  {
+    "tradeNumber": 72,
+    "timestamp": 1745956660,
+    "amm_price": 1.0679182996243615,
+    "external_price": 1.0681863159503406,
+    "trade_size": 3913
+  },
+  {
+    "tradeNumber": 73,
+    "timestamp": 1745956661,
+    "amm_price": 1.052188398921934,
+    "external_price": 1.052233802751295,
+    "trade_size": 1429
+  },
+  {
+    "tradeNumber": 74,
+    "timestamp": 1745956662,
+    "amm_price": 1.0703103916907077,
+    "external_price": 1.070454163495867,
+    "trade_size": 1382
+  },
+  {
+    "tradeNumber": 75,
+    "timestamp": 1745956663,
+    "amm_price": 1.068176966700707,
+    "external_price": 1.0683564441535867,
+    "trade_size": 2884
+  },
+  {
+    "tradeNumber": 76,
+    "timestamp": 1745956664,
+    "amm_price": 1.087849814551985,
+    "external_price": 1.08795435671103,
+    "trade_size": 679
+  },
+  {
+    "tradeNumber": 77,
+    "timestamp": 1745956665,
+    "amm_price": 1.0703250229718455,
+    "external_price": 1.0704890929526143,
+    "trade_size": 3318
+  },
+  {
+    "tradeNumber": 78,
+    "timestamp": 1745956666,
+    "amm_price": 1.056233815607968,
+    "external_price": 1.056398611444611,
+    "trade_size": 3242
+  },
+  {
+    "tradeNumber": 79,
+    "timestamp": 1745956667,
+    "amm_price": 1.0735954315660088,
+    "external_price": 1.073711600806716,
+    "trade_size": 980
+  },
+  {
+    "tradeNumber": 80,
+    "timestamp": 1745956668,
+    "amm_price": 1.0891723447528274,
+    "external_price": 1.0892496314037117,
+    "trade_size": 452
+  },
+  {
+    "tradeNumber": 81,
+    "timestamp": 1745956669,
+    "amm_price": 1.073556644378147,
+    "external_price": 1.0736920717998049,
+    "trade_size": 2769
+  },
+  {
+    "tradeNumber": 82,
+    "timestamp": 1745956670,
+    "amm_price": 1.0803549761825146,
+    "external_price": 1.0803870937048035,
+    "trade_size": 174
+  },
+  {
+    "tradeNumber": 83,
+    "timestamp": 1745956671,
+    "amm_price": 1.066432116340066,
+    "external_price": 1.0666538833526815,
+    "trade_size": 4104
+  },
+  {
+    "tradeNumber": 84,
+    "timestamp": 1745956672,
+    "amm_price": 1.0632039765867458,
+    "external_price": 1.0634868251763205,
+    "trade_size": 4646
+  },
+  {
+    "tradeNumber": 85,
+    "timestamp": 1745956673,
+    "amm_price": 1.0549726417158918,
+    "external_price": 1.0549760370272296,
+    "trade_size": 431
+  },
+  {
+    "tradeNumber": 86,
+    "timestamp": 1745956674,
+    "amm_price": 1.054456444465602,
+    "external_price": 1.0545737208838872,
+    "trade_size": 1863
+  },
+  {
+    "tradeNumber": 87,
+    "timestamp": 1745956675,
+    "amm_price": 1.0518593197683659,
+    "external_price": 1.051969697533293,
+    "trade_size": 1856
+  },
+  {
+    "tradeNumber": 88,
+    "timestamp": 1745956676,
+    "amm_price": 1.0416279193766895,
+    "external_price": 1.0416899919337903,
+    "trade_size": 1462
+  },
+  {
+    "tradeNumber": 89,
+    "timestamp": 1745956677,
+    "amm_price": 1.0293263228557943,
+    "external_price": 1.0294055931985129,
+    "trade_size": 1867
+  },
+  {
+    "tradeNumber": 90,
+    "timestamp": 1745956678,
+    "amm_price": 1.0269756784787656,
+    "external_price": 1.0271097094855741,
+    "trade_size": 2307
+  },
+  {
+    "tradeNumber": 91,
+    "timestamp": 1745956679,
+    "amm_price": 1.0246702411837063,
+    "external_price": 1.0248001166056986,
+    "trade_size": 2243
+  },
+  {
+    "tradeNumber": 92,
+    "timestamp": 1745956680,
+    "amm_price": 1.0154777236001133,
+    "external_price": 1.0155392057969497,
+    "trade_size": 1459
+  },
+  {
+    "tradeNumber": 93,
+    "timestamp": 1745956681,
+    "amm_price": 1.025154240960494,
+    "external_price": 1.025333822792689,
+    "trade_size": 2499
+  },
+  {
+    "tradeNumber": 94,
+    "timestamp": 1745956682,
+    "amm_price": 1.0210414580290132,
+    "external_price": 1.0211078793844848,
+    "trade_size": 1284
+  },
+  {
+    "tradeNumber": 95,
+    "timestamp": 1745956683,
+    "amm_price": 1.0226614569916554,
+    "external_price": 1.0229537288891546,
+    "trade_size": 4866
+  },
+  {
+    "tradeNumber": 96,
+    "timestamp": 1745956684,
+    "amm_price": 1.0273161382114158,
+    "external_price": 1.0275637205120824,
+    "trade_size": 3903
+  },
+  {
+    "tradeNumber": 97,
+    "timestamp": 1745956685,
+    "amm_price": 1.0203832518620757,
+    "external_price": 1.0206411333086598,
+    "trade_size": 4688
+  },
+  {
+    "tradeNumber": 98,
+    "timestamp": 1745956686,
+    "amm_price": 1.0033067892344318,
+    "external_price": 1.003298683080987,
+    "trade_size": 707
+  },
+  {
+    "tradeNumber": 99,
+    "timestamp": 1745956687,
+    "amm_price": 1.0209626826315823,
+    "external_price": 1.021107296788972,
+    "trade_size": 1523
+  },
+  {
+    "tradeNumber": 100,
+    "timestamp": 1745956688,
+    "amm_price": 1.0046192590526721,
+    "external_price": 1.0047806124949477,
+    "trade_size": 3548
+  },
+  {
+    "tradeNumber": 101,
+    "timestamp": 1745956689,
+    "amm_price": 0.9987084258284465,
+    "external_price": 0.9989765587018874,
+    "trade_size": 4982
+  },
+  {
+    "tradeNumber": 102,
+    "timestamp": 1745956690,
+    "amm_price": 1.0064453272806313,
+    "external_price": 1.006555107233971,
+    "trade_size": 1459
+  },
+  {
+    "tradeNumber": 103,
+    "timestamp": 1745956691,
+    "amm_price": 1.0109841058435076,
+    "external_price": 1.011001965208441,
+    "trade_size": 69
+  },
+  {
+    "tradeNumber": 104,
+    "timestamp": 1745956692,
+    "amm_price": 1.0020964140652615,
+    "external_price": 1.0022428048784802,
+    "trade_size": 2934
+  },
+  {
+    "tradeNumber": 105,
+    "timestamp": 1745956693,
+    "amm_price": 1.0213387714458386,
+    "external_price": 1.021442483810807,
+    "trade_size": 755
+  },
+  {
+    "tradeNumber": 106,
+    "timestamp": 1745956694,
+    "amm_price": 1.038525231283481,
+    "external_price": 1.0387587323217746,
+    "trade_size": 2995
+  },
+  {
+    "tradeNumber": 107,
+    "timestamp": 1745956695,
+    "amm_price": 1.0240879251535975,
+    "external_price": 1.024280903348906,
+    "trade_size": 3895
+  },
+  {
+    "tradeNumber": 108,
+    "timestamp": 1745956696,
+    "amm_price": 1.0156635397022284,
+    "external_price": 1.0156790261261774,
+    "trade_size": 663
+  },
+  {
+    "tradeNumber": 109,
+    "timestamp": 1745956697,
+    "amm_price": 0.9969323152468713,
+    "external_price": 0.9970454922311756,
+    "trade_size": 2862
+  },
+  {
+    "tradeNumber": 110,
+    "timestamp": 1745956698,
+    "amm_price": 0.9880077836676996,
+    "external_price": 0.9881222294060213,
+    "trade_size": 2433
+  },
+  {
+    "tradeNumber": 111,
+    "timestamp": 1745956699,
+    "amm_price": 0.9983585040928074,
+    "external_price": 0.9986205992123208,
+    "trade_size": 4054
+  },
+  {
+    "tradeNumber": 112,
+    "timestamp": 1745956700,
+    "amm_price": 0.9833288670964354,
+    "external_price": 0.9834218575809602,
+    "trade_size": 2379
+  },
+  {
+    "tradeNumber": 113,
+    "timestamp": 1745956701,
+    "amm_price": 0.9848674805111557,
+    "external_price": 0.9848898585338702,
+    "trade_size": 304
+  },
+  {
+    "tradeNumber": 114,
+    "timestamp": 1745956702,
+    "amm_price": 0.9929273125034866,
+    "external_price": 0.9929758343542239,
+    "trade_size": 413
+  },
+  {
+    "tradeNumber": 115,
+    "timestamp": 1745956703,
+    "amm_price": 0.9840367986213883,
+    "external_price": 0.9842499134690775,
+    "trade_size": 4228
+  },
+  {
+    "tradeNumber": 116,
+    "timestamp": 1745956704,
+    "amm_price": 0.9828615924649616,
+    "external_price": 0.9829904789081871,
+    "trade_size": 2314
+  },
+  {
+    "tradeNumber": 117,
+    "timestamp": 1745956705,
+    "amm_price": 0.9909514368686411,
+    "external_price": 0.9910803340482189,
+    "trade_size": 1812
+  },
+  {
+    "tradeNumber": 118,
+    "timestamp": 1745956706,
+    "amm_price": 0.9720688713308628,
+    "external_price": 0.9722602824387256,
+    "trade_size": 4415
+  },
+  {
+    "tradeNumber": 119,
+    "timestamp": 1745956707,
+    "amm_price": 0.9794614171177924,
+    "external_price": 0.9795284991042295,
+    "trade_size": 782
+  },
+  {
+    "tradeNumber": 120,
+    "timestamp": 1745956708,
+    "amm_price": 0.9732614966239981,
+    "external_price": 0.9733947448699978,
+    "trade_size": 2689
+  },
+  {
+    "tradeNumber": 121,
+    "timestamp": 1745956709,
+    "amm_price": 0.9847501830469222,
+    "external_price": 0.9850427112485584,
+    "trade_size": 4653
+  },
+  {
+    "tradeNumber": 122,
+    "timestamp": 1745956710,
+    "amm_price": 0.9667616629045647,
+    "external_price": 0.9669199584313932,
+    "trade_size": 3789
+  },
+  {
+    "tradeNumber": 123,
+    "timestamp": 1745956711,
+    "amm_price": 0.9736047789877198,
+    "external_price": 0.9737065133366297,
+    "trade_size": 1437
+  },
+  {
+    "tradeNumber": 124,
+    "timestamp": 1745956712,
+    "amm_price": 0.98680579095037,
+    "external_price": 0.9869596401647099,
+    "trade_size": 2003
+  },
+  {
+    "tradeNumber": 125,
+    "timestamp": 1745956713,
+    "amm_price": 1.0016895315211347,
+    "external_price": 1.0018501360090888,
+    "trade_size": 1990
+  },
+  {
+    "tradeNumber": 126,
+    "timestamp": 1745956714,
+    "amm_price": 1.009557131430545,
+    "external_price": 1.0097185954852637,
+    "trade_size": 2334
+  },
+  {
+    "tradeNumber": 127,
+    "timestamp": 1745956715,
+    "amm_price": 1.0184475521626952,
+    "external_price": 1.0186718801041608,
+    "trade_size": 3339
+  },
+  {
+    "tradeNumber": 128,
+    "timestamp": 1745956716,
+    "amm_price": 1.0211112035409846,
+    "external_price": 1.021138060996598,
+    "trade_size": 306
+  },
+  {
+    "tradeNumber": 129,
+    "timestamp": 1745956717,
+    "amm_price": 1.0143953556557983,
+    "external_price": 1.0145341032623523,
+    "trade_size": 2644
+  },
+  {
+    "tradeNumber": 130,
+    "timestamp": 1745956718,
+    "amm_price": 1.0059502789747916,
+    "external_price": 1.0061051772960092,
+    "trade_size": 3043
+  },
+  {
+    "tradeNumber": 131,
+    "timestamp": 1745956719,
+    "amm_price": 1.0060505899224723,
+    "external_price": 1.006295202315405,
+    "trade_size": 4205
+  },
+  {
+    "tradeNumber": 132,
+    "timestamp": 1745956720,
+    "amm_price": 1.0114438244203534,
+    "external_price": 1.0117036107881898,
+    "trade_size": 4179
+  },
+  {
+    "tradeNumber": 133,
+    "timestamp": 1745956721,
+    "amm_price": 1.0227831782544121,
+    "external_price": 1.022837032349306,
+    "trade_size": 321
+  },
+  {
+    "tradeNumber": 134,
+    "timestamp": 1745956722,
+    "amm_price": 1.0189127107410751,
+    "external_price": 1.0189658610971442,
+    "trade_size": 1057
+  },
+  {
+    "tradeNumber": 135,
+    "timestamp": 1745956723,
+    "amm_price": 1.017900647503627,
+    "external_price": 1.0181704264757991,
+    "trade_size": 4629
+  },
+  {
+    "tradeNumber": 136,
+    "timestamp": 1745956724,
+    "amm_price": 1.0066636826046904,
+    "external_price": 1.0067892989572695,
+    "trade_size": 2670
+  },
+  {
+    "tradeNumber": 137,
+    "timestamp": 1745956725,
+    "amm_price": 0.9903288648226195,
+    "external_price": 0.9903323465895617,
+    "trade_size": 880
+  },
+  {
+    "tradeNumber": 138,
+    "timestamp": 1745956726,
+    "amm_price": 0.9838531830175659,
+    "external_price": 0.983950787434156,
+    "trade_size": 2026
+  },
+  {
+    "tradeNumber": 139,
+    "timestamp": 1745956727,
+    "amm_price": 0.9837041877436639,
+    "external_price": 0.9837591881033875,
+    "trade_size": 956
+  },
+  {
+    "tradeNumber": 140,
+    "timestamp": 1745956728,
+    "amm_price": 1.0014256526642977,
+    "external_price": 1.0015710490751708,
+    "trade_size": 1579
+  },
+  {
+    "tradeNumber": 141,
+    "timestamp": 1745956729,
+    "amm_price": 0.9998004106691604,
+    "external_price": 0.9998446837211485,
+    "trade_size": 825
+  },
+  {
+    "tradeNumber": 142,
+    "timestamp": 1745956730,
+    "amm_price": 1.0018309497993612,
+    "external_price": 1.0020339646827416,
+    "trade_size": 3390
+  },
+  {
+    "tradeNumber": 143,
+    "timestamp": 1745956731,
+    "amm_price": 1.0061389167790846,
+    "external_price": 1.0062797900484834,
+    "trade_size": 2167
+  },
+  {
+    "tradeNumber": 144,
+    "timestamp": 1745956732,
+    "amm_price": 1.0137380991293676,
+    "external_price": 1.0139772114097585,
+    "trade_size": 3688
+  },
+  {
+    "tradeNumber": 145,
+    "timestamp": 1745956733,
+    "amm_price": 1.006481173781756,
+    "external_price": 1.006583824353905,
+    "trade_size": 2082
+  },
+  {
+    "tradeNumber": 146,
+    "timestamp": 1745956734,
+    "amm_price": 1.0107329645756806,
+    "external_price": 1.0110204861303478,
+    "trade_size": 4739
+  },
+  {
+    "tradeNumber": 147,
+    "timestamp": 1745956735,
+    "amm_price": 1.0219172974933368,
+    "external_price": 1.0219710868826788,
+    "trade_size": 328
+  },
+  {
+    "tradeNumber": 148,
+    "timestamp": 1745956736,
+    "amm_price": 1.0336998292582846,
+    "external_price": 1.0339312249278994,
+    "trade_size": 3244
+  },
+  {
+    "tradeNumber": 149,
+    "timestamp": 1745956737,
+    "amm_price": 1.035961689632088,
+    "external_price": 1.0359987791232006,
+    "trade_size": 482
+  },
+  {
+    "tradeNumber": 150,
+    "timestamp": 1745956738,
+    "amm_price": 1.0427067945610435,
+    "external_price": 1.0429587853399183,
+    "trade_size": 3790
+  },
+  {
+    "tradeNumber": 151,
+    "timestamp": 1745956739,
+    "amm_price": 1.0574798105485754,
+    "external_price": 1.05782441984351,
+    "trade_size": 4895
+  },
+  {
+    "tradeNumber": 152,
+    "timestamp": 1745956740,
+    "amm_price": 1.0609337684828741,
+    "external_price": 1.061181882250307,
+    "trade_size": 3778
+  },
+  {
+    "tradeNumber": 153,
+    "timestamp": 1745956741,
+    "amm_price": 1.0722811528182294,
+    "external_price": 1.072430427757532,
+    "trade_size": 1777
+  },
+  {
+    "tradeNumber": 154,
+    "timestamp": 1745956742,
+    "amm_price": 1.0607922159230554,
+    "external_price": 1.0609073083341585,
+    "trade_size": 2311
+  },
+  {
+    "tradeNumber": 155,
+    "timestamp": 1745956743,
+    "amm_price": 1.0640983605988281,
+    "external_price": 1.0642711618601919,
+    "trade_size": 2545
+  },
+  {
+    "tradeNumber": 156,
+    "timestamp": 1745956744,
+    "amm_price": 1.0804460399588605,
+    "external_price": 1.0807981658952273,
+    "trade_size": 4786
+  },
+  {
+    "tradeNumber": 157,
+    "timestamp": 1745956745,
+    "amm_price": 1.077707458414489,
+    "external_price": 1.0779004786165418,
+    "trade_size": 3086
+  },
+  {
+    "tradeNumber": 158,
+    "timestamp": 1745956746,
+    "amm_price": 1.0840589421719933,
+    "external_price": 1.084268534430402,
+    "trade_size": 2914
+  },
+  {
+    "tradeNumber": 159,
+    "timestamp": 1745956747,
+    "amm_price": 1.1024783923655732,
+    "external_price": 1.1027956699672814,
+    "trade_size": 3989
+  },
+  {
+    "tradeNumber": 160,
+    "timestamp": 1745956748,
+    "amm_price": 1.0891916406200595,
+    "external_price": 1.089201183474448,
+    "trade_size": 721
+  },
+  {
+    "tradeNumber": 161,
+    "timestamp": 1745956749,
+    "amm_price": 1.0794748190290013,
+    "external_price": 1.0794839191663448,
+    "trade_size": 567
+  },
+  {
+    "tradeNumber": 162,
+    "timestamp": 1745956750,
+    "amm_price": 1.0970941788642898,
+    "external_price": 1.0973013742897417,
+    "trade_size": 2324
+  },
+  {
+    "tradeNumber": 163,
+    "timestamp": 1745956751,
+    "amm_price": 1.097945002943874,
+    "external_price": 1.097960299233124,
+    "trade_size": 185
+  },
+  {
+    "tradeNumber": 164,
+    "timestamp": 1745956752,
+    "amm_price": 1.1107628014250397,
+    "external_price": 1.1108768541629719,
+    "trade_size": 1098
+  },
+  {
+    "tradeNumber": 165,
+    "timestamp": 1745956753,
+    "amm_price": 1.1295669449020773,
+    "external_price": 1.129760821638333,
+    "trade_size": 1975
+  },
+  {
+    "tradeNumber": 166,
+    "timestamp": 1745956754,
+    "amm_price": 1.1127847131255728,
+    "external_price": 1.1127385133511722,
+    "trade_size": 53
+  },
+  {
+    "tradeNumber": 167,
+    "timestamp": 1745956755,
+    "amm_price": 1.1082104330852334,
+    "external_price": 1.1083632289683316,
+    "trade_size": 2430
+  },
+  {
+    "tradeNumber": 168,
+    "timestamp": 1745956756,
+    "amm_price": 1.1072004734108392,
+    "external_price": 1.1072942427519152,
+    "trade_size": 1404
+  },
+  {
+    "tradeNumber": 169,
+    "timestamp": 1745956757,
+    "amm_price": 1.1051605471884256,
+    "external_price": 1.1053222945951793,
+    "trade_size": 2466
+  },
+  {
+    "tradeNumber": 170,
+    "timestamp": 1745956758,
+    "amm_price": 1.1103644319155794,
+    "external_price": 1.110519671345673,
+    "trade_size": 2040
+  },
+  {
+    "tradeNumber": 171,
+    "timestamp": 1745956759,
+    "amm_price": 1.1260242943560466,
+    "external_price": 1.1262755386660261,
+    "trade_size": 2975
+  },
+  {
+    "tradeNumber": 172,
+    "timestamp": 1745956760,
+    "amm_price": 1.1190282492155401,
+    "external_price": 1.1190409381776534,
+    "trade_size": 474
+  },
+  {
+    "tradeNumber": 173,
+    "timestamp": 1745956761,
+    "amm_price": 1.1005994435139301,
+    "external_price": 1.100808346025108,
+    "trade_size": 3904
+  },
+  {
+    "tradeNumber": 174,
+    "timestamp": 1745956762,
+    "amm_price": 1.1055580262101896,
+    "external_price": 1.1057887480267838,
+    "trade_size": 3212
+  },
+  {
+    "tradeNumber": 175,
+    "timestamp": 1745956763,
+    "amm_price": 1.0893667552237318,
+    "external_price": 1.089608224404257,
+    "trade_size": 4381
+  },
+  {
+    "tradeNumber": 176,
+    "timestamp": 1745956764,
+    "amm_price": 1.100444580966884,
+    "external_price": 1.1006975383889672,
+    "trade_size": 3312
+  },
+  {
+    "tradeNumber": 177,
+    "timestamp": 1745956765,
+    "amm_price": 1.0990340020889868,
+    "external_price": 1.0991609779732887,
+    "trade_size": 1934
+  },
+  {
+    "tradeNumber": 178,
+    "timestamp": 1745956766,
+    "amm_price": 1.1092820606969465,
+    "external_price": 1.109366294823803,
+    "trade_size": 774
+  },
+  {
+    "tradeNumber": 179,
+    "timestamp": 1745956767,
+    "amm_price": 1.1221650144020527,
+    "external_price": 1.1223993372770298,
+    "trade_size": 2855
+  },
+  {
+    "tradeNumber": 180,
+    "timestamp": 1745956768,
+    "amm_price": 1.1257359285485533,
+    "external_price": 1.1259828274401849,
+    "trade_size": 3425
+  },
+  {
+    "tradeNumber": 181,
+    "timestamp": 1745956769,
+    "amm_price": 1.146049494803389,
+    "external_price": 1.1464182288043607,
+    "trade_size": 4450
+  },
+  {
+    "tradeNumber": 182,
+    "timestamp": 1745956770,
+    "amm_price": 1.1351892264867456,
+    "external_price": 1.1351944398210545,
+    "trade_size": 519
+  },
+  {
+    "tradeNumber": 183,
+    "timestamp": 1745956771,
+    "amm_price": 1.1460929710513081,
+    "external_price": 1.1463033765499744,
+    "trade_size": 2499
+  },
+  {
+    "tradeNumber": 184,
+    "timestamp": 1745956772,
+    "amm_price": 1.137407613452736,
+    "external_price": 1.1374888799662526,
+    "trade_size": 1487
+  },
+  {
+    "tradeNumber": 185,
+    "timestamp": 1745956773,
+    "amm_price": 1.1254369082433036,
+    "external_price": 1.1254985346515216,
+    "trade_size": 1367
+  },
+  {
+    "tradeNumber": 186,
+    "timestamp": 1745956774,
+    "amm_price": 1.144872767704763,
+    "external_price": 1.145108587541696,
+    "trade_size": 2516
+  },
+  {
+    "tradeNumber": 187,
+    "timestamp": 1745956775,
+    "amm_price": 1.1344036902998786,
+    "external_price": 1.134433100439737,
+    "trade_size": 839
+  },
+  {
+    "tradeNumber": 188,
+    "timestamp": 1745956776,
+    "amm_price": 1.138415077058064,
+    "external_price": 1.1386731870353675,
+    "trade_size": 3514
+  },
+  {
+    "tradeNumber": 189,
+    "timestamp": 1745956777,
+    "amm_price": 1.135601952557953,
+    "external_price": 1.1357359722366243,
+    "trade_size": 1999
+  },
+  {
+    "tradeNumber": 190,
+    "timestamp": 1745956778,
+    "amm_price": 1.140339418603571,
+    "external_price": 1.1406323485111092,
+    "trade_size": 3992
+  },
+  {
+    "tradeNumber": 191,
+    "timestamp": 1745956779,
+    "amm_price": 1.1556130207448099,
+    "external_price": 1.1559398550391475,
+    "trade_size": 3978
+  },
+  {
+    "tradeNumber": 192,
+    "timestamp": 1745956780,
+    "amm_price": 1.1408610793500629,
+    "external_price": 1.1408625928115081,
+    "trade_size": 622
+  },
+  {
+    "tradeNumber": 193,
+    "timestamp": 1745956781,
+    "amm_price": 1.147409616192269,
+    "external_price": 1.1476058945355887,
+    "trade_size": 2471
+  },
+  {
+    "tradeNumber": 194,
+    "timestamp": 1745956782,
+    "amm_price": 1.143605165541627,
+    "external_price": 1.1436197645056785,
+    "trade_size": 355
+  },
+  {
+    "tradeNumber": 195,
+    "timestamp": 1745956783,
+    "amm_price": 1.1376733188428334,
+    "external_price": 1.1376612183536663,
+    "trade_size": 78
+  },
+  {
+    "tradeNumber": 196,
+    "timestamp": 1745956784,
+    "amm_price": 1.1564012320040378,
+    "external_price": 1.156501652991022,
+    "trade_size": 601
+  },
+  {
+    "tradeNumber": 197,
+    "timestamp": 1745956785,
+    "amm_price": 1.1393074274521071,
+    "external_price": 1.1396007130110029,
+    "trade_size": 4896
+  },
+  {
+    "tradeNumber": 198,
+    "timestamp": 1745956786,
+    "amm_price": 1.1562262225281326,
+    "external_price": 1.1565538735663632,
+    "trade_size": 3919
+  },
+  {
+    "tradeNumber": 199,
+    "timestamp": 1745956787,
+    "amm_price": 1.159148508247202,
+    "external_price": 1.1594067842247942,
+    "trade_size": 3464
+  },
+  {
+    "tradeNumber": 200,
+    "timestamp": 1745956788,
+    "amm_price": 1.1790095710152848,
+    "external_price": 1.179087666296315,
+    "trade_size": 240
+  },
+  {
+    "tradeNumber": 201,
+    "timestamp": 1745956789,
+    "amm_price": 1.1871599495629535,
+    "external_price": 1.187352647733097,
+    "trade_size": 2234
+  },
+  {
+    "tradeNumber": 202,
+    "timestamp": 1745956790,
+    "amm_price": 1.1810480330518138,
+    "external_price": 1.181354327266979,
+    "trade_size": 4394
+  },
+  {
+    "tradeNumber": 203,
+    "timestamp": 1745956791,
+    "amm_price": 1.1700757762315575,
+    "external_price": 1.1703753781258315,
+    "trade_size": 4552
+  },
+  {
+    "tradeNumber": 204,
+    "timestamp": 1745956792,
+    "amm_price": 1.1893086968419628,
+    "external_price": 1.1896168593161758,
+    "trade_size": 3385
+  },
+  {
+    "tradeNumber": 205,
+    "timestamp": 1745956793,
+    "amm_price": 1.201910355389705,
+    "external_price": 1.2021117670003165,
+    "trade_size": 2137
+  },
+  {
+    "tradeNumber": 206,
+    "timestamp": 1745956794,
+    "amm_price": 1.183017732239285,
+    "external_price": 1.1832568251960136,
+    "trade_size": 3932
+  },
+  {
+    "tradeNumber": 207,
+    "timestamp": 1745956795,
+    "amm_price": 1.1832676553704924,
+    "external_price": 1.1833757139816496,
+    "trade_size": 1411
+  },
+  {
+    "tradeNumber": 208,
+    "timestamp": 1745956796,
+    "amm_price": 1.1802797443945634,
+    "external_price": 1.1806145276330353,
+    "trade_size": 4683
+  },
+  {
+    "tradeNumber": 209,
+    "timestamp": 1745956797,
+    "amm_price": 1.170500509356753,
+    "external_price": 1.1706775578800672,
+    "trade_size": 2775
+  },
+  {
+    "tradeNumber": 210,
+    "timestamp": 1745956798,
+    "amm_price": 1.175678897797875,
+    "external_price": 1.1757537735671186,
+    "trade_size": 785
+  },
+  {
+    "tradeNumber": 211,
+    "timestamp": 1745956799,
+    "amm_price": 1.1525003765049606,
+    "external_price": 1.1526449888233055,
+    "trade_size": 2915
+  },
+  {
+    "tradeNumber": 212,
+    "timestamp": 1745956800,
+    "amm_price": 1.1380029114496493,
+    "external_price": 1.1380519984813133,
+    "trade_size": 1272
+  },
+  {
+    "tradeNumber": 213,
+    "timestamp": 1745956801,
+    "amm_price": 1.1529620051603813,
+    "external_price": 1.1530973974851084,
+    "trade_size": 1247
+  },
+  {
+    "tradeNumber": 214,
+    "timestamp": 1745956802,
+    "amm_price": 1.1511234451778134,
+    "external_price": 1.1512268424090806,
+    "trade_size": 1491
+  },
+  {
+    "tradeNumber": 215,
+    "timestamp": 1745956803,
+    "amm_price": 1.16514858252871,
+    "external_price": 1.165235433940332,
+    "trade_size": 601
+  },
+  {
+    "tradeNumber": 216,
+    "timestamp": 1745956804,
+    "amm_price": 1.1530880780754766,
+    "external_price": 1.1531477617070665,
+    "trade_size": 1295
+  },
+  {
+    "tradeNumber": 217,
+    "timestamp": 1745956805,
+    "amm_price": 1.170228306613684,
+    "external_price": 1.1703466439590737,
+    "trade_size": 898
+  },
+  {
+    "tradeNumber": 218,
+    "timestamp": 1745956806,
+    "amm_price": 1.1685725446350943,
+    "external_price": 1.1689189889525813,
+    "trade_size": 4873
+  },
+  {
+    "tradeNumber": 219,
+    "timestamp": 1745956807,
+    "amm_price": 1.1466377257057596,
+    "external_price": 1.1468008462229957,
+    "trade_size": 3151
+  },
+  {
+    "tradeNumber": 220,
+    "timestamp": 1745956808,
+    "amm_price": 1.1439583648997453,
+    "external_price": 1.144103138583805,
+    "trade_size": 2124
+  },
+  {
+    "tradeNumber": 221,
+    "timestamp": 1745956809,
+    "amm_price": 1.1331194834316394,
+    "external_price": 1.1332351340640594,
+    "trade_size": 2073
+  },
+  {
+    "tradeNumber": 222,
+    "timestamp": 1745956810,
+    "amm_price": 1.1153323943438724,
+    "external_price": 1.1154687713281164,
+    "trade_size": 2718
+  },
+  {
+    "tradeNumber": 223,
+    "timestamp": 1745956811,
+    "amm_price": 1.121886596440108,
+    "external_price": 1.1221785621815394,
+    "trade_size": 4002
+  },
+  {
+    "tradeNumber": 224,
+    "timestamp": 1745956812,
+    "amm_price": 1.1095199693552125,
+    "external_price": 1.1098096225179588,
+    "trade_size": 4844
+  },
+  {
+    "tradeNumber": 225,
+    "timestamp": 1745956813,
+    "amm_price": 1.130890099339819,
+    "external_price": 1.1311796631841236,
+    "trade_size": 3287
+  },
+  {
+    "tradeNumber": 226,
+    "timestamp": 1745956814,
+    "amm_price": 1.138337352111585,
+    "external_price": 1.1385318573048095,
+    "trade_size": 2438
+  },
+  {
+    "tradeNumber": 227,
+    "timestamp": 1745956815,
+    "amm_price": 1.144791843138695,
+    "external_price": 1.144952236222671,
+    "trade_size": 1969
+  },
+  {
+    "tradeNumber": 228,
+    "timestamp": 1745956816,
+    "amm_price": 1.135813896269127,
+    "external_price": 1.1360283519763774,
+    "trade_size": 3418
+  },
+  {
+    "tradeNumber": 229,
+    "timestamp": 1745956817,
+    "amm_price": 1.1173998535389804,
+    "external_price": 1.1173614218922232,
+    "trade_size": 230
+  },
+  {
+    "tradeNumber": 230,
+    "timestamp": 1745956818,
+    "amm_price": 1.1120945894199816,
+    "external_price": 1.1122920882438112,
+    "trade_size": 3118
+  },
+  {
+    "tradeNumber": 231,
+    "timestamp": 1745956819,
+    "amm_price": 1.113965365628118,
+    "external_price": 1.1140896408458083,
+    "trade_size": 1715
+  },
+  {
+    "tradeNumber": 232,
+    "timestamp": 1745956820,
+    "amm_price": 1.0955074638491924,
+    "external_price": 1.0955897237821055,
+    "trade_size": 2008
+  },
+  {
+    "tradeNumber": 233,
+    "timestamp": 1745956821,
+    "amm_price": 1.1015690173756683,
+    "external_price": 1.1017728887069111,
+    "trade_size": 2768
+  },
+  {
+    "tradeNumber": 234,
+    "timestamp": 1745956822,
+    "amm_price": 1.0840385804666788,
+    "external_price": 1.084116228314765,
+    "trade_size": 1930
+  },
+  {
+    "tradeNumber": 235,
+    "timestamp": 1745956823,
+    "amm_price": 1.070224316213841,
+    "external_price": 1.0704951857699632,
+    "trade_size": 4876
+  },
+  {
+    "tradeNumber": 236,
+    "timestamp": 1745956824,
+    "amm_price": 1.0535448961147653,
+    "external_price": 1.0536434274878521,
+    "trade_size": 2307
+  },
+  {
+    "tradeNumber": 237,
+    "timestamp": 1745956825,
+    "amm_price": 1.0526990583227687,
+    "external_price": 1.0529312326838274,
+    "trade_size": 3758
+  },
+  {
+    "tradeNumber": 238,
+    "timestamp": 1745956826,
+    "amm_price": 1.055243974029289,
+    "external_price": 1.0554237786192302,
+    "trade_size": 2727
+  },
+  {
+    "tradeNumber": 239,
+    "timestamp": 1745956827,
+    "amm_price": 1.057600118470627,
+    "external_price": 1.0577777996433568,
+    "trade_size": 2692
+  },
+  {
+    "tradeNumber": 240,
+    "timestamp": 1745956828,
+    "amm_price": 1.0513296214901744,
+    "external_price": 1.051504746046568,
+    "trade_size": 3075
+  },
+  {
+    "tradeNumber": 241,
+    "timestamp": 1745956829,
+    "amm_price": 1.0576829045529563,
+    "external_price": 1.0578516759989995,
+    "trade_size": 2362
+  },
+  {
+    "tradeNumber": 242,
+    "timestamp": 1745956830,
+    "amm_price": 1.0404454711348896,
+    "external_price": 1.0404082488085,
+    "trade_size": 220
+  },
+  {
+    "tradeNumber": 243,
+    "timestamp": 1745956831,
+    "amm_price": 1.0400426814246975,
+    "external_price": 1.0402189518400293,
+    "trade_size": 2869
+  },
+  {
+    "tradeNumber": 244,
+    "timestamp": 1745956832,
+    "amm_price": 1.0388081287588635,
+    "external_price": 1.0390890919717046,
+    "trade_size": 4689
+  },
+  {
+    "tradeNumber": 245,
+    "timestamp": 1745956833,
+    "amm_price": 1.0577193999065926,
+    "external_price": 1.0579449053927001,
+    "trade_size": 2698
+  },
+  {
+    "tradeNumber": 246,
+    "timestamp": 1745956834,
+    "amm_price": 1.0633751727278808,
+    "external_price": 1.0635477556438768,
+    "trade_size": 2436
+  },
+  {
+    "tradeNumber": 247,
+    "timestamp": 1745956835,
+    "amm_price": 1.0535030059612718,
+    "external_price": 1.053554126602687,
+    "trade_size": 1249
+  },
+  {
+    "tradeNumber": 248,
+    "timestamp": 1745956836,
+    "amm_price": 1.0424056680826979,
+    "external_price": 1.04249059681807,
+    "trade_size": 1867
+  },
+  {
+    "tradeNumber": 249,
+    "timestamp": 1745956837,
+    "amm_price": 1.0568729902673402,
+    "external_price": 1.0572083226244922,
+    "trade_size": 4755
+  },
+  {
+    "tradeNumber": 250,
+    "timestamp": 1745956838,
+    "amm_price": 1.0386190184085222,
+    "external_price": 1.038565505949152,
+    "trade_size": 11
+  },
+  {
+    "tradeNumber": 251,
+    "timestamp": 1745956839,
+    "amm_price": 1.0575761442760476,
+    "external_price": 1.0577686610363355,
+    "trade_size": 2156
+  },
+  {
+    "tradeNumber": 252,
+    "timestamp": 1745956840,
+    "amm_price": 1.0430428516524182,
+    "external_price": 1.0432571908665935,
+    "trade_size": 4149
+  },
+  {
+    "tradeNumber": 253,
+    "timestamp": 1745956841,
+    "amm_price": 1.0392643415169567,
+    "external_price": 1.0393904524434854,
+    "trade_size": 2203
+  },
+  {
+    "tradeNumber": 254,
+    "timestamp": 1745956842,
+    "amm_price": 1.0538173231208339,
+    "external_price": 1.0541372126750164,
+    "trade_size": 4508
+  },
+  {
+    "tradeNumber": 255,
+    "timestamp": 1745956843,
+    "amm_price": 1.0535240976630977,
+    "external_price": 1.0537908919101404,
+    "trade_size": 4306
+  },
+  {
+    "tradeNumber": 256,
+    "timestamp": 1745956844,
+    "amm_price": 1.0404534799300216,
+    "external_price": 1.0405502256392913,
+    "trade_size": 2155
+  },
+  {
+    "tradeNumber": 257,
+    "timestamp": 1745956845,
+    "amm_price": 1.0262037128704289,
+    "external_price": 1.0262777663300398,
+    "trade_size": 1882
+  },
+  {
+    "tradeNumber": 258,
+    "timestamp": 1745956846,
+    "amm_price": 1.0283742355775758,
+    "external_price": 1.0285427580764621,
+    "trade_size": 2664
+  },
+  {
+    "tradeNumber": 259,
+    "timestamp": 1745956847,
+    "amm_price": 1.0158726733073589,
+    "external_price": 1.0159687764472292,
+    "trade_size": 2196
+  },
+  {
+    "tradeNumber": 260,
+    "timestamp": 1745956848,
+    "amm_price": 1.000258908356605,
+    "external_price": 1.000362400364554,
+    "trade_size": 2528
+  },
+  {
+    "tradeNumber": 261,
+    "timestamp": 1745956849,
+    "amm_price": 1.015053050535456,
+    "external_price": 1.015363420508725,
+    "trade_size": 4595
+  },
+  {
+    "tradeNumber": 262,
+    "timestamp": 1745956850,
+    "amm_price": 1.0173288440462327,
+    "external_price": 1.0174389678974514,
+    "trade_size": 1710
+  },
+  {
+    "tradeNumber": 263,
+    "timestamp": 1745956851,
+    "amm_price": 1.0359752809513143,
+    "external_price": 1.036313325354431,
+    "trade_size": 4750
+  },
+  {
+    "tradeNumber": 264,
+    "timestamp": 1745956852,
+    "amm_price": 1.0549241778923761,
+    "external_price": 1.0552327172838525,
+    "trade_size": 4099
+  },
+  {
+    "tradeNumber": 265,
+    "timestamp": 1745956853,
+    "amm_price": 1.0624195848425608,
+    "external_price": 1.062629375262859,
+    "trade_size": 2956
+  },
+  {
+    "tradeNumber": 266,
+    "timestamp": 1745956854,
+    "amm_price": 1.053903674227149,
+    "external_price": 1.0539308638050038,
+    "trade_size": 813
+  },
+  {
+    "tradeNumber": 267,
+    "timestamp": 1745956855,
+    "amm_price": 1.0623768039847734,
+    "external_price": 1.0626022962376271,
+    "trade_size": 3167
+  },
+  {
+    "tradeNumber": 268,
+    "timestamp": 1745956856,
+    "amm_price": 1.0730868860693052,
+    "external_price": 1.0732807099517963,
+    "trade_size": 2509
+  },
+  {
+    "tradeNumber": 269,
+    "timestamp": 1745956857,
+    "amm_price": 1.0905775725861484,
+    "external_price": 1.090799653207311,
+    "trade_size": 2584
+  },
+  {
+    "tradeNumber": 270,
+    "timestamp": 1745956858,
+    "amm_price": 1.0697147899252317,
+    "external_price": 1.069927580318413,
+    "trade_size": 4247
+  },
+  {
+    "tradeNumber": 271,
+    "timestamp": 1745956859,
+    "amm_price": 1.0543464229740467,
+    "external_price": 1.0545304027042173,
+    "trade_size": 3621
+  },
+  {
+    "tradeNumber": 272,
+    "timestamp": 1745956860,
+    "amm_price": 1.0483177164830348,
+    "external_price": 1.0484483039328407,
+    "trade_size": 2351
+  },
+  {
+    "tradeNumber": 273,
+    "timestamp": 1745956861,
+    "amm_price": 1.0684232521125385,
+    "external_price": 1.0686338746529296,
+    "trade_size": 2360
+  },
+  {
+    "tradeNumber": 274,
+    "timestamp": 1745956862,
+    "amm_price": 1.0521328583409362,
+    "external_price": 1.0523042668526084,
+    "trade_size": 3469
+  },
+  {
+    "tradeNumber": 275,
+    "timestamp": 1745956863,
+    "amm_price": 1.0583138993431427,
+    "external_price": 1.058635111932026,
+    "trade_size": 4892
+  },
+  {
+    "tradeNumber": 276,
+    "timestamp": 1745956864,
+    "amm_price": 1.041540004279853,
+    "external_price": 1.0416256853499286,
+    "trade_size": 2144
+  },
+  {
+    "tradeNumber": 277,
+    "timestamp": 1745956865,
+    "amm_price": 1.0465595272810937,
+    "external_price": 1.0468716057638556,
+    "trade_size": 4875
+  },
+  {
+    "tradeNumber": 278,
+    "timestamp": 1745956866,
+    "amm_price": 1.0667663929113294,
+    "external_price": 1.0669383124617782,
+    "trade_size": 1739
+  },
+  {
+    "tradeNumber": 279,
+    "timestamp": 1745956867,
+    "amm_price": 1.0688820552680673,
+    "external_price": 1.0689465253074666,
+    "trade_size": 886
+  },
+  {
+    "tradeNumber": 280,
+    "timestamp": 1745956868,
+    "amm_price": 1.0490798357434472,
+    "external_price": 1.0490806518681393,
+    "trade_size": 924
+  },
+  {
+    "tradeNumber": 281,
+    "timestamp": 1745956869,
+    "amm_price": 1.037403192480198,
+    "external_price": 1.0375579145716571,
+    "trade_size": 3052
+  },
+  {
+    "tradeNumber": 282,
+    "timestamp": 1745956870,
+    "amm_price": 1.0577113949532237,
+    "external_price": 1.0578441319216851,
+    "trade_size": 1127
+  },
+  {
+    "tradeNumber": 283,
+    "timestamp": 1745956871,
+    "amm_price": 1.0490570173241696,
+    "external_price": 1.0492821198932663,
+    "trade_size": 4022
+  },
+  {
+    "tradeNumber": 284,
+    "timestamp": 1745956872,
+    "amm_price": 1.0494975322388242,
+    "external_price": 1.0495697584630401,
+    "trade_size": 1112
+  },
+  {
+    "tradeNumber": 285,
+    "timestamp": 1745956873,
+    "amm_price": 1.038366508577255,
+    "external_price": 1.0385435962367415,
+    "trade_size": 3394
+  },
+  {
+    "tradeNumber": 286,
+    "timestamp": 1745956874,
+    "amm_price": 1.0338355363399554,
+    "external_price": 1.0340921572448682,
+    "trade_size": 4459
+  },
+  {
+    "tradeNumber": 287,
+    "timestamp": 1745956875,
+    "amm_price": 1.0535446562657542,
+    "external_price": 1.0537438858886994,
+    "trade_size": 2243
+  },
+  {
+    "tradeNumber": 288,
+    "timestamp": 1745956876,
+    "amm_price": 1.0461040328180087,
+    "external_price": 1.0461992589507174,
+    "trade_size": 1853
+  },
+  {
+    "tradeNumber": 289,
+    "timestamp": 1745956877,
+    "amm_price": 1.0663474560196502,
+    "external_price": 1.066569022897806,
+    "trade_size": 2538
+  },
+  {
+    "tradeNumber": 290,
+    "timestamp": 1745956878,
+    "amm_price": 1.0633798318795034,
+    "external_price": 1.063583339794416,
+    "trade_size": 3330
+  },
+  {
+    "tradeNumber": 291,
+    "timestamp": 1745956879,
+    "amm_price": 1.0480158215372046,
+    "external_price": 1.048041506405072,
+    "trade_size": 1111
+  },
+  {
+    "tradeNumber": 292,
+    "timestamp": 1745956880,
+    "amm_price": 1.047849640057439,
+    "external_price": 1.0479373615099719,
+    "trade_size": 1390
+  },
+  {
+    "tradeNumber": 293,
+    "timestamp": 1745956881,
+    "amm_price": 1.059269117070375,
+    "external_price": 1.0595129470432139,
+    "trade_size": 3346
+  },
+  {
+    "tradeNumber": 294,
+    "timestamp": 1745956882,
+    "amm_price": 1.0577544167372646,
+    "external_price": 1.0579894258483418,
+    "trade_size": 3808
+  },
+  {
+    "tradeNumber": 295,
+    "timestamp": 1745956883,
+    "amm_price": 1.057052849475491,
+    "external_price": 1.057170276540754,
+    "trade_size": 1867
+  },
+  {
+    "tradeNumber": 296,
+    "timestamp": 1745956884,
+    "amm_price": 1.0684794624897653,
+    "external_price": 1.068781494485004,
+    "trade_size": 4259
+  },
+  {
+    "tradeNumber": 297,
+    "timestamp": 1745956885,
+    "amm_price": 1.0567697538519174,
+    "external_price": 1.0569378541960437,
+    "trade_size": 3185
+  },
+  {
+    "tradeNumber": 298,
+    "timestamp": 1745956886,
+    "amm_price": 1.0417607252700731,
+    "external_price": 1.0419626733431784,
+    "trade_size": 3971
+  },
+  {
+    "tradeNumber": 299,
+    "timestamp": 1745956887,
+    "amm_price": 1.038190770201956,
+    "external_price": 1.038307505306352,
+    "trade_size": 2043
+  },
+  {
+    "tradeNumber": 300,
+    "timestamp": 1745956888,
+    "amm_price": 1.021551237258319,
+    "external_price": 1.021750815609072,
+    "trade_size": 4128
+  },
+  {
+    "tradeNumber": 301,
+    "timestamp": 1745956889,
+    "amm_price": 1.0161116158548433,
+    "external_price": 1.0161455791805791,
+    "trade_size": 821
+  },
+  {
+    "tradeNumber": 302,
+    "timestamp": 1745956890,
+    "amm_price": 1.0325825469561358,
+    "external_price": 1.0329096400703148,
+    "trade_size": 4687
+  },
+  {
+    "tradeNumber": 303,
+    "timestamp": 1745956891,
+    "amm_price": 1.039938990160285,
+    "external_price": 1.0402370273705435,
+    "trade_size": 4568
+  },
+  {
+    "tradeNumber": 304,
+    "timestamp": 1745956892,
+    "amm_price": 1.0555544353160589,
+    "external_price": 1.0556884702191622,
+    "trade_size": 1374
+  },
+  {
+    "tradeNumber": 305,
+    "timestamp": 1745956893,
+    "amm_price": 1.07009044098837,
+    "external_price": 1.070233153117205,
+    "trade_size": 1532
+  },
+  {
+    "tradeNumber": 306,
+    "timestamp": 1745956894,
+    "amm_price": 1.0802277240548828,
+    "external_price": 1.0803952789184366,
+    "trade_size": 2097
+  },
+  {
+    "tradeNumber": 307,
+    "timestamp": 1745956895,
+    "amm_price": 1.0765821945111438,
+    "external_price": 1.0766919489389817,
+    "trade_size": 1829
+  },
+  {
+    "tradeNumber": 308,
+    "timestamp": 1745956896,
+    "amm_price": 1.068549960719939,
+    "external_price": 1.068731605339093,
+    "trade_size": 3183
+  },
+  {
+    "tradeNumber": 309,
+    "timestamp": 1745956897,
+    "amm_price": 1.0751237820717416,
+    "external_price": 1.075204766740827,
+    "trade_size": 929
+  },
+  {
+    "tradeNumber": 310,
+    "timestamp": 1745956898,
+    "amm_price": 1.0591028876585284,
+    "external_price": 1.059150924569312,
+    "trade_size": 1469
+  },
+  {
+    "tradeNumber": 311,
+    "timestamp": 1745956899,
+    "amm_price": 1.041489405000003,
+    "external_price": 1.0416254365581212,
+    "trade_size": 3001
+  },
+  {
+    "tradeNumber": 312,
+    "timestamp": 1745956900,
+    "amm_price": 1.027510295609004,
+    "external_price": 1.0276089192948064,
+    "trade_size": 2270
+  },
+  {
+    "tradeNumber": 313,
+    "timestamp": 1745956901,
+    "amm_price": 1.0332944424393844,
+    "external_price": 1.0334734409017114,
+    "trade_size": 2647
+  },
+  {
+    "tradeNumber": 314,
+    "timestamp": 1745956902,
+    "amm_price": 1.0270998626142187,
+    "external_price": 1.027131421761435,
+    "trade_size": 805
+  },
+  {
+    "tradeNumber": 315,
+    "timestamp": 1745956903,
+    "amm_price": 1.0273138482724222,
+    "external_price": 1.0275438948432973,
+    "trade_size": 3814
+  },
+  {
+    "tradeNumber": 316,
+    "timestamp": 1745956904,
+    "amm_price": 1.0331312828569639,
+    "external_price": 1.0334422547538074,
+    "trade_size": 4916
+  },
+  {
+    "tradeNumber": 317,
+    "timestamp": 1745956905,
+    "amm_price": 1.0222614350590709,
+    "external_price": 1.0223489029388586,
+    "trade_size": 1954
+  },
+  {
+    "tradeNumber": 318,
+    "timestamp": 1745956906,
+    "amm_price": 1.0223687020812877,
+    "external_price": 1.0225664074671372,
+    "trade_size": 3288
+  },
+  {
+    "tradeNumber": 319,
+    "timestamp": 1745956907,
+    "amm_price": 1.0084956477051545,
+    "external_price": 1.008456214022794,
+    "trade_size": 31
+  },
+  {
+    "tradeNumber": 320,
+    "timestamp": 1745956908,
+    "amm_price": 0.9963522499457133,
+    "external_price": 0.9963857290028284,
+    "trade_size": 1171
+  },
+  {
+    "tradeNumber": 321,
+    "timestamp": 1745956909,
+    "amm_price": 0.9951797874957,
+    "external_price": 0.995249135491239,
+    "trade_size": 1237
+  },
+  {
+    "tradeNumber": 322,
+    "timestamp": 1745956910,
+    "amm_price": 1.0092237027105844,
+    "external_price": 1.0093829392480314,
+    "trade_size": 1986
+  },
+  {
+    "tradeNumber": 323,
+    "timestamp": 1745956911,
+    "amm_price": 1.008451316194942,
+    "external_price": 1.0085623745916672,
+    "trade_size": 1900
+  },
+  {
+    "tradeNumber": 324,
+    "timestamp": 1745956912,
+    "amm_price": 0.9919658644278011,
+    "external_price": 0.9920284216058309,
+    "trade_size": 1893
+  },
+  {
+    "tradeNumber": 325,
+    "timestamp": 1745956913,
+    "amm_price": 0.9964410233939712,
+    "external_price": 0.9965303522608842,
+    "trade_size": 1293
+  },
+  {
+    "tradeNumber": 326,
+    "timestamp": 1745956914,
+    "amm_price": 1.0108540265297221,
+    "external_price": 1.0109701852458415,
+    "trade_size": 1223
+  },
+  {
+    "tradeNumber": 327,
+    "timestamp": 1745956915,
+    "amm_price": 0.993053413909628,
+    "external_price": 0.9931394336918464,
+    "trade_size": 2360
+  },
+  {
+    "tradeNumber": 328,
+    "timestamp": 1745956916,
+    "amm_price": 0.9781033177156404,
+    "external_price": 0.9781510264320485,
+    "trade_size": 1595
+  },
+  {
+    "tradeNumber": 329,
+    "timestamp": 1745956917,
+    "amm_price": 0.963478047056937,
+    "external_price": 0.9636766598852597,
+    "trade_size": 4391
+  },
+  {
+    "tradeNumber": 330,
+    "timestamp": 1745956918,
+    "amm_price": 0.971050673506624,
+    "external_price": 0.9711169288263203,
+    "trade_size": 768
+  },
+  {
+    "tradeNumber": 331,
+    "timestamp": 1745956919,
+    "amm_price": 0.9895759994927757,
+    "external_price": 0.989828025254243,
+    "trade_size": 3498
+  },
+  {
+    "tradeNumber": 332,
+    "timestamp": 1745956920,
+    "amm_price": 0.9918512216636927,
+    "external_price": 0.992106304403089,
+    "trade_size": 4380
+  },
+  {
+    "tradeNumber": 333,
+    "timestamp": 1745956921,
+    "amm_price": 1.0091317652938423,
+    "external_price": 1.009353532042954,
+    "trade_size": 2918
+  },
+  {
+    "tradeNumber": 334,
+    "timestamp": 1745956922,
+    "amm_price": 0.9905477311016462,
+    "external_price": 0.9906476366654854,
+    "trade_size": 2650
+  },
+  {
+    "tradeNumber": 335,
+    "timestamp": 1745956923,
+    "amm_price": 0.9983521475888497,
+    "external_price": 0.9986355808687107,
+    "trade_size": 4575
+  },
+  {
+    "tradeNumber": 336,
+    "timestamp": 1745956924,
+    "amm_price": 0.994105657215361,
+    "external_price": 0.9941626664414248,
+    "trade_size": 1182
+  },
+  {
+    "tradeNumber": 337,
+    "timestamp": 1745956925,
+    "amm_price": 0.9753020851273306,
+    "external_price": 0.9754374141716813,
+    "trade_size": 3362
+  },
+  {
+    "tradeNumber": 338,
+    "timestamp": 1745956926,
+    "amm_price": 0.963401251785233,
+    "external_price": 0.9636034093461014,
+    "trade_size": 4317
+  },
+  {
+    "tradeNumber": 339,
+    "timestamp": 1745956927,
+    "amm_price": 0.962887510536657,
+    "external_price": 0.9631140177846759,
+    "trade_size": 4185
+  },
+  {
+    "tradeNumber": 340,
+    "timestamp": 1745956928,
+    "amm_price": 0.9608741212042075,
+    "external_price": 0.9610753530558068,
+    "trade_size": 3796
+  },
+  {
+    "tradeNumber": 341,
+    "timestamp": 1745956929,
+    "amm_price": 0.9574490715166719,
+    "external_price": 0.9574596841233967,
+    "trade_size": 372
+  },
+  {
+    "tradeNumber": 342,
+    "timestamp": 1745956930,
+    "amm_price": 0.9503302222331995,
+    "external_price": 0.9504963413527785,
+    "trade_size": 3461
+  },
+  {
+    "tradeNumber": 343,
+    "timestamp": 1745956931,
+    "amm_price": 0.9499284935272174,
+    "external_price": 0.9500474178558429,
+    "trade_size": 2208
+  },
+  {
+    "tradeNumber": 344,
+    "timestamp": 1745956932,
+    "amm_price": 0.9347469285410877,
+    "external_price": 0.9349536044326262,
+    "trade_size": 4789
+  },
+  {
+    "tradeNumber": 345,
+    "timestamp": 1745956933,
+    "amm_price": 0.9330796703985683,
+    "external_price": 0.9331531828817186,
+    "trade_size": 1470
+  },
+  {
+    "tradeNumber": 346,
+    "timestamp": 1745956934,
+    "amm_price": 0.9262999888949596,
+    "external_price": 0.9264992836095931,
+    "trade_size": 4243
+  },
+  {
+    "tradeNumber": 347,
+    "timestamp": 1745956935,
+    "amm_price": 0.9253116342610341,
+    "external_price": 0.9254413305974732,
+    "trade_size": 2542
+  },
+  {
+    "tradeNumber": 348,
+    "timestamp": 1745956936,
+    "amm_price": 0.9198774896473061,
+    "external_price": 0.920005150156471,
+    "trade_size": 2776
+  },
+  {
+    "tradeNumber": 349,
+    "timestamp": 1745956937,
+    "amm_price": 0.9100369404604638,
+    "external_price": 0.910073012463333,
+    "trade_size": 1261
+  },
+  {
+    "tradeNumber": 350,
+    "timestamp": 1745956938,
+    "amm_price": 0.9068025539840706,
+    "external_price": 0.9068654787784147,
+    "trade_size": 1416
+  },
+  {
+    "tradeNumber": 351,
+    "timestamp": 1745956939,
+    "amm_price": 0.9148185436116251,
+    "external_price": 0.9149508183987866,
+    "trade_size": 2119
+  },
+  {
+    "tradeNumber": 352,
+    "timestamp": 1745956940,
+    "amm_price": 0.9292562820322048,
+    "external_price": 0.9295480480273749,
+    "trade_size": 4909
+  },
+  {
+    "tradeNumber": 353,
+    "timestamp": 1745956941,
+    "amm_price": 0.926941366289665,
+    "external_price": 0.9271362537606951,
+    "trade_size": 3901
+  },
+  {
+    "tradeNumber": 354,
+    "timestamp": 1745956942,
+    "amm_price": 0.9225873552593653,
+    "external_price": 0.9227802086416923,
+    "trade_size": 4003
+  },
+  {
+    "tradeNumber": 355,
+    "timestamp": 1745956943,
+    "amm_price": 0.9138384971140266,
+    "external_price": 0.9139194411286795,
+    "trade_size": 2066
+  },
+  {
+    "tradeNumber": 356,
+    "timestamp": 1745956944,
+    "amm_price": 0.9284049569210924,
+    "external_price": 0.9286342896724258,
+    "trade_size": 3629
+  },
+  {
+    "tradeNumber": 357,
+    "timestamp": 1745956945,
+    "amm_price": 0.9217003878743408,
+    "external_price": 0.9218961615584756,
+    "trade_size": 4200
+  },
+  {
+    "tradeNumber": 358,
+    "timestamp": 1745956946,
+    "amm_price": 0.9202327051703579,
+    "external_price": 0.920334137569992,
+    "trade_size": 2034
+  },
+  {
+    "tradeNumber": 359,
+    "timestamp": 1745956947,
+    "amm_price": 0.9185021735900378,
+    "external_price": 0.918738333340496,
+    "trade_size": 4769
+  },
+  {
+    "tradeNumber": 360,
+    "timestamp": 1745956948,
+    "amm_price": 0.9338400239431316,
+    "external_price": 0.9341318302394842,
+    "trade_size": 4821
+  },
+  {
+    "tradeNumber": 361,
+    "timestamp": 1745956949,
+    "amm_price": 0.9161856897176504,
+    "external_price": 0.9161779422593532,
+    "trade_size": 848
+  },
+  {
+    "tradeNumber": 362,
+    "timestamp": 1745956950,
+    "amm_price": 0.9124401130658775,
+    "external_price": 0.9125269485228162,
+    "trade_size": 1902
+  },
+  {
+    "tradeNumber": 363,
+    "timestamp": 1745956951,
+    "amm_price": 0.9239160769374708,
+    "external_price": 0.9241080857661106,
+    "trade_size": 3078
+  },
+  {
+    "tradeNumber": 364,
+    "timestamp": 1745956952,
+    "amm_price": 0.9158823135660599,
+    "external_price": 0.9160684258802272,
+    "trade_size": 4119
+  },
+  {
+    "tradeNumber": 365,
+    "timestamp": 1745956953,
+    "amm_price": 0.8978662897042318,
+    "external_price": 0.8979785984145974,
+    "trade_size": 3293
+  },
+  {
+    "tradeNumber": 366,
+    "timestamp": 1745956954,
+    "amm_price": 0.9092350679641061,
+    "external_price": 0.9094348507286484,
+    "trade_size": 3322
+  },
+  {
+    "tradeNumber": 367,
+    "timestamp": 1745956955,
+    "amm_price": 0.9062327631118097,
+    "external_price": 0.9063573895731614,
+    "trade_size": 2638
+  },
+  {
+    "tradeNumber": 368,
+    "timestamp": 1745956956,
+    "amm_price": 0.8909797689502468,
+    "external_price": 0.8911561895150237,
+    "trade_size": 4513
+  },
+  {
+    "tradeNumber": 369,
+    "timestamp": 1745956957,
+    "amm_price": 0.8787046353013712,
+    "external_price": 0.8788200985714065,
+    "trade_size": 3128
+  },
+  {
+    "tradeNumber": 370,
+    "timestamp": 1745956958,
+    "amm_price": 0.8787904133076014,
+    "external_price": 0.8790007905989867,
+    "trade_size": 4427
+  },
+  {
+    "tradeNumber": 371,
+    "timestamp": 1745956959,
+    "amm_price": 0.8656720975377955,
+    "external_price": 0.8658656910659306,
+    "trade_size": 4968
+  },
+  {
+    "tradeNumber": 372,
+    "timestamp": 1745956960,
+    "amm_price": 0.8667356138041562,
+    "external_price": 0.8667751654244114,
+    "trade_size": 757
+  },
+  {
+    "tradeNumber": 373,
+    "timestamp": 1745956961,
+    "amm_price": 0.8579551138543984,
+    "external_price": 0.8580277052600601,
+    "trade_size": 2094
+  },
+  {
+    "tradeNumber": 374,
+    "timestamp": 1745956962,
+    "amm_price": 0.8463346063713956,
+    "external_price": 0.8463143848045842,
+    "trade_size": 308
+  },
+  {
+    "tradeNumber": 375,
+    "timestamp": 1745956963,
+    "amm_price": 0.844641051132873,
+    "external_price": 0.844772397654156,
+    "trade_size": 3004
+  },
+  {
+    "tradeNumber": 376,
+    "timestamp": 1745956964,
+    "amm_price": 0.8579840269227427,
+    "external_price": 0.8580319744505471,
+    "trade_size": 163
+  },
+  {
+    "tradeNumber": 377,
+    "timestamp": 1745956965,
+    "amm_price": 0.849218731795745,
+    "external_price": 0.8493031315168221,
+    "trade_size": 2385
+  },
+  {
+    "tradeNumber": 378,
+    "timestamp": 1745956966,
+    "amm_price": 0.833400976019964,
+    "external_price": 0.8334922713980353,
+    "trade_size": 3065
+  },
+  {
+    "tradeNumber": 379,
+    "timestamp": 1745956967,
+    "amm_price": 0.8457540005371118,
+    "external_price": 0.8459011707831919,
+    "trade_size": 2442
+  },
+  {
+    "tradeNumber": 380,
+    "timestamp": 1745956968,
+    "amm_price": 0.8378550012773415,
+    "external_price": 0.8379731500711501,
+    "trade_size": 3142
+  },
+  {
+    "tradeNumber": 381,
+    "timestamp": 1745956969,
+    "amm_price": 0.8317293664494879,
+    "external_price": 0.8319074581849552,
+    "trade_size": 4460
+  },
+  {
+    "tradeNumber": 382,
+    "timestamp": 1745956970,
+    "amm_price": 0.827767993006565,
+    "external_price": 0.8278496935775302,
+    "trade_size": 2101
+  },
+  {
+    "tradeNumber": 383,
+    "timestamp": 1745956971,
+    "amm_price": 0.8177225556501541,
+    "external_price": 0.8177574420412393,
+    "trade_size": 1467
+  },
+  {
+    "tradeNumber": 384,
+    "timestamp": 1745956972,
+    "amm_price": 0.8109304821199005,
+    "external_price": 0.8110161238282741,
+    "trade_size": 2453
+  },
+  {
+    "tradeNumber": 385,
+    "timestamp": 1745956973,
+    "amm_price": 0.8025995727919719,
+    "external_price": 0.802622220506032,
+    "trade_size": 1104
+  },
+  {
+    "tradeNumber": 386,
+    "timestamp": 1745956974,
+    "amm_price": 0.7883081834652645,
+    "external_price": 0.7883696438358075,
+    "trade_size": 2493
+  },
+  {
+    "tradeNumber": 387,
+    "timestamp": 1745956975,
+    "amm_price": 0.7933129137337022,
+    "external_price": 0.7934701492098052,
+    "trade_size": 3478
+  },
+  {
+    "tradeNumber": 388,
+    "timestamp": 1745956976,
+    "amm_price": 0.7826826210457938,
+    "external_price": 0.7826788338097813,
+    "trade_size": 671
+  },
+  {
+    "tradeNumber": 389,
+    "timestamp": 1745956977,
+    "amm_price": 0.7861280952009818,
+    "external_price": 0.7862498731374095,
+    "trade_size": 2740
+  },
+  {
+    "tradeNumber": 390,
+    "timestamp": 1745956978,
+    "amm_price": 0.7801271515672968,
+    "external_price": 0.7802195501509634,
+    "trade_size": 2714
+  },
+  {
+    "tradeNumber": 391,
+    "timestamp": 1745956979,
+    "amm_price": 0.7941527347156058,
+    "external_price": 0.7942711832024404,
+    "trade_size": 1853
+  },
+  {
+    "tradeNumber": 392,
+    "timestamp": 1745956980,
+    "amm_price": 0.7830387410037272,
+    "external_price": 0.7831095070950423,
+    "trade_size": 2524
+  },
+  {
+    "tradeNumber": 393,
+    "timestamp": 1745956981,
+    "amm_price": 0.7814912883790945,
+    "external_price": 0.7815224934149951,
+    "trade_size": 870
+  },
+  {
+    "tradeNumber": 394,
+    "timestamp": 1745956982,
+    "amm_price": 0.7944614686971232,
+    "external_price": 0.7946961022460929,
+    "trade_size": 4877
+  },
+  {
+    "tradeNumber": 395,
+    "timestamp": 1745956983,
+    "amm_price": 0.7830332583767594,
+    "external_price": 0.7831599640833916,
+    "trade_size": 3950
+  },
+  {
+    "tradeNumber": 396,
+    "timestamp": 1745956984,
+    "amm_price": 0.7923038121227236,
+    "external_price": 0.7924459478288233,
+    "trade_size": 2797
+  },
+  {
+    "tradeNumber": 397,
+    "timestamp": 1745956985,
+    "amm_price": 0.7847785645026222,
+    "external_price": 0.7849564065935332,
+    "trade_size": 4969
+  },
+  {
+    "tradeNumber": 398,
+    "timestamp": 1745956986,
+    "amm_price": 0.7807344629967586,
+    "external_price": 0.7808711894831813,
+    "trade_size": 3695
+  },
+  {
+    "tradeNumber": 399,
+    "timestamp": 1745956987,
+    "amm_price": 0.7742541258341825,
+    "external_price": 0.7743525592684645,
+    "trade_size": 2934
+  },
+  {
+    "tradeNumber": 400,
+    "timestamp": 1745956988,
+    "amm_price": 0.7720466064544919,
+    "external_price": 0.7720618259524896,
+    "trade_size": 538
+  },
+  {
+    "tradeNumber": 401,
+    "timestamp": 1745956989,
+    "amm_price": 0.7569745574881482,
+    "external_price": 0.7569904728664317,
+    "trade_size": 1535
+  },
+  {
+    "tradeNumber": 402,
+    "timestamp": 1745956990,
+    "amm_price": 0.7668964785510657,
+    "external_price": 0.7670073536819273,
+    "trade_size": 2071
+  },
+  {
+    "tradeNumber": 403,
+    "timestamp": 1745956991,
+    "amm_price": 0.7795337989588762,
+    "external_price": 0.7796366036653118,
+    "trade_size": 1613
+  },
+  {
+    "tradeNumber": 404,
+    "timestamp": 1745956992,
+    "amm_price": 0.7769017985836044,
+    "external_price": 0.7769539552439709,
+    "trade_size": 1476
+  },
+  {
+    "tradeNumber": 405,
+    "timestamp": 1745956993,
+    "amm_price": 0.78882718644217,
+    "external_price": 0.7889912516039499,
+    "trade_size": 3179
+  },
+  {
+    "tradeNumber": 406,
+    "timestamp": 1745956994,
+    "amm_price": 0.7885443014072343,
+    "external_price": 0.7886336638415655,
+    "trade_size": 2188
+  },
+  {
+    "tradeNumber": 407,
+    "timestamp": 1745956995,
+    "amm_price": 0.7823617186985551,
+    "external_price": 0.7823520686361204,
+    "trade_size": 213
+  },
+  {
+    "tradeNumber": 408,
+    "timestamp": 1745956996,
+    "amm_price": 0.7780143400310064,
+    "external_price": 0.7780145303570224,
+    "trade_size": 321
+  },
+  {
+    "tradeNumber": 409,
+    "timestamp": 1745956997,
+    "amm_price": 0.770564366753349,
+    "external_price": 0.7705629714815336,
+    "trade_size": 514
+  },
+  {
+    "tradeNumber": 410,
+    "timestamp": 1745956998,
+    "amm_price": 0.7834079251138043,
+    "external_price": 0.7835008137688112,
+    "trade_size": 1337
+  },
+  {
+    "tradeNumber": 411,
+    "timestamp": 1745956999,
+    "amm_price": 0.7704880360552455,
+    "external_price": 0.7705930138731364,
+    "trade_size": 3593
+  },
+  {
+    "tradeNumber": 412,
+    "timestamp": 1745957000,
+    "amm_price": 0.7819904021143348,
+    "external_price": 0.7820653476386301,
+    "trade_size": 992
+  },
+  {
+    "tradeNumber": 413,
+    "timestamp": 1745957001,
+    "amm_price": 0.7671210547899909,
+    "external_price": 0.7672718615872698,
+    "trade_size": 4961
+  },
+  {
+    "tradeNumber": 414,
+    "timestamp": 1745957002,
+    "amm_price": 0.7774725085171371,
+    "external_price": 0.7776936955913585,
+    "trade_size": 4879
+  },
+  {
+    "tradeNumber": 415,
+    "timestamp": 1745957003,
+    "amm_price": 0.7922062299906221,
+    "external_price": 0.7924068787916209,
+    "trade_size": 3888
+  },
+  {
+    "tradeNumber": 416,
+    "timestamp": 1745957004,
+    "amm_price": 0.7832533330536295,
+    "external_price": 0.7832769540228236,
+    "trade_size": 1213
+  },
+  {
+    "tradeNumber": 417,
+    "timestamp": 1745957005,
+    "amm_price": 0.7696747963981839,
+    "external_price": 0.7696678146078445,
+    "trade_size": 823
+  },
+  {
+    "tradeNumber": 418,
+    "timestamp": 1745957006,
+    "amm_price": 0.7748234448505497,
+    "external_price": 0.7748589984782767,
+    "trade_size": 495
+  },
+  {
+    "tradeNumber": 419,
+    "timestamp": 1745957007,
+    "amm_price": 0.7887847369401443,
+    "external_price": 0.7890118355798627,
+    "trade_size": 4661
+  },
+  {
+    "tradeNumber": 420,
+    "timestamp": 1745957008,
+    "amm_price": 0.7813112957944627,
+    "external_price": 0.7812946866174074,
+    "trade_size": 138
+  },
+  {
+    "tradeNumber": 421,
+    "timestamp": 1745957009,
+    "amm_price": 0.7822242862317953,
+    "external_price": 0.7824114465277798,
+    "trade_size": 4629
+  },
+  {
+    "tradeNumber": 422,
+    "timestamp": 1745957010,
+    "amm_price": 0.7952449389487508,
+    "external_price": 0.7953019610002077,
+    "trade_size": 424
+  },
+  {
+    "tradeNumber": 423,
+    "timestamp": 1745957011,
+    "amm_price": 0.7999772935256888,
+    "external_price": 0.800165941313292,
+    "trade_size": 4240
+  },
+  {
+    "tradeNumber": 424,
+    "timestamp": 1745957012,
+    "amm_price": 0.8005377384041475,
+    "external_price": 0.8007431903101109,
+    "trade_size": 4954
+  },
+  {
+    "tradeNumber": 425,
+    "timestamp": 1745957013,
+    "amm_price": 0.8049749563350235,
+    "external_price": 0.8051027314267927,
+    "trade_size": 2719
+  },
+  {
+    "tradeNumber": 426,
+    "timestamp": 1745957014,
+    "amm_price": 0.808074187563023,
+    "external_price": 0.8080982825269689,
+    "trade_size": 341
+  },
+  {
+    "tradeNumber": 427,
+    "timestamp": 1745957015,
+    "amm_price": 0.7926661651774105,
+    "external_price": 0.7926830754771462,
+    "trade_size": 1480
+  },
+  {
+    "tradeNumber": 428,
+    "timestamp": 1745957016,
+    "amm_price": 0.8069806919164426,
+    "external_price": 0.8071524192867875,
+    "trade_size": 3089
+  },
+  {
+    "tradeNumber": 429,
+    "timestamp": 1745957017,
+    "amm_price": 0.8150720679137885,
+    "external_price": 0.815204875867307,
+    "trade_size": 2536
+  },
+  {
+    "tradeNumber": 430,
+    "timestamp": 1745957018,
+    "amm_price": 0.7995729233473199,
+    "external_price": 0.7996187022933804,
+    "trade_size": 2149
+  },
+  {
+    "tradeNumber": 431,
+    "timestamp": 1745957019,
+    "amm_price": 0.8070359221876847,
+    "external_price": 0.8070932181621332,
+    "trade_size": 813
+  },
+  {
+    "tradeNumber": 432,
+    "timestamp": 1745957020,
+    "amm_price": 0.797213941305653,
+    "external_price": 0.7971864941894037,
+    "trade_size": 43
+  },
+  {
+    "tradeNumber": 433,
+    "timestamp": 1745957021,
+    "amm_price": 0.7921682752740064,
+    "external_price": 0.7922779619078002,
+    "trade_size": 3011
+  },
+  {
+    "tradeNumber": 434,
+    "timestamp": 1745957022,
+    "amm_price": 0.7959626845378762,
+    "external_price": 0.7960603951058937,
+    "trade_size": 2072
+  },
+  {
+    "tradeNumber": 435,
+    "timestamp": 1745957023,
+    "amm_price": 0.806840354977314,
+    "external_price": 0.8070130398607914,
+    "trade_size": 3357
+  },
+  {
+    "tradeNumber": 436,
+    "timestamp": 1745957024,
+    "amm_price": 0.8213371050218661,
+    "external_price": 0.8214624653769707,
+    "trade_size": 1890
+  },
+  {
+    "tradeNumber": 437,
+    "timestamp": 1745957025,
+    "amm_price": 0.8256186284577365,
+    "external_price": 0.825666078869117,
+    "trade_size": 777
+  },
+  {
+    "tradeNumber": 438,
+    "timestamp": 1745957026,
+    "amm_price": 0.8208014775111289,
+    "external_price": 0.8209582034972167,
+    "trade_size": 3951
+  },
+  {
+    "tradeNumber": 439,
+    "timestamp": 1745957027,
+    "amm_price": 0.8316584000508642,
+    "external_price": 0.8318912012137502,
+    "trade_size": 4640
+  },
+  {
+    "tradeNumber": 440,
+    "timestamp": 1745957028,
+    "amm_price": 0.8480300920831704,
+    "external_price": 0.8481575088958169,
+    "trade_size": 1722
+  },
+  {
+    "tradeNumber": 441,
+    "timestamp": 1745957029,
+    "amm_price": 0.8373052093851279,
+    "external_price": 0.8373215979559324,
+    "trade_size": 1053
+  },
+  {
+    "tradeNumber": 442,
+    "timestamp": 1745957030,
+    "amm_price": 0.8388825385576293,
+    "external_price": 0.8389023345470202,
+    "trade_size": 328
+  },
+  {
+    "tradeNumber": 443,
+    "timestamp": 1745957031,
+    "amm_price": 0.8311793145997817,
+    "external_price": 0.8313204745864612,
+    "trade_size": 3701
+  },
+  {
+    "tradeNumber": 444,
+    "timestamp": 1745957032,
+    "amm_price": 0.8309079428195861,
+    "external_price": 0.8310891032775739,
+    "trade_size": 4154
+  },
+  {
+    "tradeNumber": 445,
+    "timestamp": 1745957033,
+    "amm_price": 0.829530608915482,
+    "external_price": 0.8297149289829845,
+    "trade_size": 4313
+  },
+  {
+    "tradeNumber": 446,
+    "timestamp": 1745957034,
+    "amm_price": 0.8367673876167823,
+    "external_price": 0.8369363800648817,
+    "trade_size": 3330
+  },
+  {
+    "tradeNumber": 447,
+    "timestamp": 1745957035,
+    "amm_price": 0.838816526613264,
+    "external_price": 0.8390231680676534,
+    "trade_size": 4540
+  },
+  {
+    "tradeNumber": 448,
+    "timestamp": 1745957036,
+    "amm_price": 0.8265715563772781,
+    "external_price": 0.8266652936631839,
+    "trade_size": 2927
+  },
+  {
+    "tradeNumber": 449,
+    "timestamp": 1745957037,
+    "amm_price": 0.841816494009524,
+    "external_price": 0.8419753862237044,
+    "trade_size": 2536
+  },
+  {
+    "tradeNumber": 450,
+    "timestamp": 1745957038,
+    "amm_price": 0.8439027158940239,
+    "external_price": 0.8440269712148394,
+    "trade_size": 2603
+  },
+  {
+    "tradeNumber": 451,
+    "timestamp": 1745957039,
+    "amm_price": 0.8447304611329884,
+    "external_price": 0.8449338362003903,
+    "trade_size": 4494
+  },
+  {
+    "tradeNumber": 452,
+    "timestamp": 1745957040,
+    "amm_price": 0.8434352126185501,
+    "external_price": 0.8434414901485973,
+    "trade_size": 219
+  },
+  {
+    "tradeNumber": 453,
+    "timestamp": 1745957041,
+    "amm_price": 0.8443907125964423,
+    "external_price": 0.8444627604975243,
+    "trade_size": 1508
+  },
+  {
+    "tradeNumber": 454,
+    "timestamp": 1745957042,
+    "amm_price": 0.85351253398629,
+    "external_price": 0.8537175346155589,
+    "trade_size": 3928
+  },
+  {
+    "tradeNumber": 455,
+    "timestamp": 1745957043,
+    "amm_price": 0.8535823057308898,
+    "external_price": 0.85375384881123,
+    "trade_size": 3746
+  },
+  {
+    "tradeNumber": 456,
+    "timestamp": 1745957044,
+    "amm_price": 0.8623280342708513,
+    "external_price": 0.8625626919587174,
+    "trade_size": 4563
+  },
+  {
+    "tradeNumber": 457,
+    "timestamp": 1745957045,
+    "amm_price": 0.8779873385844101,
+    "external_price": 0.8780828986800698,
+    "trade_size": 1004
+  },
+  {
+    "tradeNumber": 458,
+    "timestamp": 1745957046,
+    "amm_price": 0.8626540666030548,
+    "external_price": 0.8627720341209246,
+    "trade_size": 3458
+  },
+  {
+    "tradeNumber": 459,
+    "timestamp": 1745957047,
+    "amm_price": 0.8665573707920662,
+    "external_price": 0.8667783107397726,
+    "trade_size": 4523
+  },
+  {
+    "tradeNumber": 460,
+    "timestamp": 1745957048,
+    "amm_price": 0.8641028959490232,
+    "external_price": 0.8642970745521844,
+    "trade_size": 4338
+  },
+  {
+    "tradeNumber": 461,
+    "timestamp": 1745957049,
+    "amm_price": 0.8787867859068975,
+    "external_price": 0.8789183854279777,
+    "trade_size": 1825
+  },
+  {
+    "tradeNumber": 462,
+    "timestamp": 1745957050,
+    "amm_price": 0.8731340092290585,
+    "external_price": 0.8733452728399544,
+    "trade_size": 4842
+  },
+  {
+    "tradeNumber": 463,
+    "timestamp": 1745957051,
+    "amm_price": 0.8805559543256312,
+    "external_price": 0.8807435873216495,
+    "trade_size": 3470
+  },
+  {
+    "tradeNumber": 464,
+    "timestamp": 1745957052,
+    "amm_price": 0.8794161362470718,
+    "external_price": 0.8794671872980675,
+    "trade_size": 1111
+  },
+  {
+    "tradeNumber": 465,
+    "timestamp": 1745957053,
+    "amm_price": 0.877183935141164,
+    "external_price": 0.8774023557467369,
+    "trade_size": 4758
+  },
+  {
+    "tradeNumber": 466,
+    "timestamp": 1745957054,
+    "amm_price": 0.8706351152073156,
+    "external_price": 0.8707614569239512,
+    "trade_size": 3058
+  },
+  {
+    "tradeNumber": 467,
+    "timestamp": 1745957055,
+    "amm_price": 0.8577403025842627,
+    "external_price": 0.8577456832085391,
+    "trade_size": 918
+  },
+  {
+    "tradeNumber": 468,
+    "timestamp": 1745957056,
+    "amm_price": 0.8458405938711314,
+    "external_price": 0.8459725767463822,
+    "trade_size": 3662
+  },
+  {
+    "tradeNumber": 469,
+    "timestamp": 1745957057,
+    "amm_price": 0.8392522869951365,
+    "external_price": 0.8393219750964228,
+    "trade_size": 1959
+  },
+  {
+    "tradeNumber": 470,
+    "timestamp": 1745957058,
+    "amm_price": 0.8385524300613266,
+    "external_price": 0.8386384481515823,
+    "trade_size": 1945
+  },
+  {
+    "tradeNumber": 471,
+    "timestamp": 1745957059,
+    "amm_price": 0.8527510313227527,
+    "external_price": 0.8529243682818027,
+    "trade_size": 2881
+  },
+  {
+    "tradeNumber": 472,
+    "timestamp": 1745957060,
+    "amm_price": 0.8366394072872773,
+    "external_price": 0.8367385763727998,
+    "trade_size": 3244
+  },
+  {
+    "tradeNumber": 473,
+    "timestamp": 1745957061,
+    "amm_price": 0.8345162542646265,
+    "external_price": 0.8346546211762872,
+    "trade_size": 3250
+  },
+  {
+    "tradeNumber": 474,
+    "timestamp": 1745957062,
+    "amm_price": 0.8466352921587826,
+    "external_price": 0.8468787507862783,
+    "trade_size": 4681
+  },
+  {
+    "tradeNumber": 475,
+    "timestamp": 1745957063,
+    "amm_price": 0.8403760582072889,
+    "external_price": 0.8404712931881106,
+    "trade_size": 2505
+  },
+  {
+    "tradeNumber": 476,
+    "timestamp": 1745957064,
+    "amm_price": 0.8553350161453238,
+    "external_price": 0.8555820610689798,
+    "trade_size": 4506
+  },
+  {
+    "tradeNumber": 477,
+    "timestamp": 1745957065,
+    "amm_price": 0.8554129506402193,
+    "external_price": 0.8554862747174247,
+    "trade_size": 1562
+  },
+  {
+    "tradeNumber": 478,
+    "timestamp": 1745957066,
+    "amm_price": 0.8569091764707047,
+    "external_price": 0.8570436393813708,
+    "trade_size": 2806
+  },
+  {
+    "tradeNumber": 479,
+    "timestamp": 1745957067,
+    "amm_price": 0.8658715049702043,
+    "external_price": 0.8660486548131818,
+    "trade_size": 3231
+  },
+  {
+    "tradeNumber": 480,
+    "timestamp": 1745957068,
+    "amm_price": 0.8626995862092689,
+    "external_price": 0.8627117225554511,
+    "trade_size": 451
+  },
+  {
+    "tradeNumber": 481,
+    "timestamp": 1745957069,
+    "amm_price": 0.8484816960591002,
+    "external_price": 0.8486326065010836,
+    "trade_size": 4217
+  },
+  {
+    "tradeNumber": 482,
+    "timestamp": 1745957070,
+    "amm_price": 0.8653887474530421,
+    "external_price": 0.8655471869475996,
+    "trade_size": 2314
+  },
+  {
+    "tradeNumber": 483,
+    "timestamp": 1745957071,
+    "amm_price": 0.8498232057718897,
+    "external_price": 0.8499247985125802,
+    "trade_size": 3188
+  },
+  {
+    "tradeNumber": 484,
+    "timestamp": 1745957072,
+    "amm_price": 0.8415649179475129,
+    "external_price": 0.8417277764944162,
+    "trade_size": 4165
+  },
+  {
+    "tradeNumber": 485,
+    "timestamp": 1745957073,
+    "amm_price": 0.8289144790367202,
+    "external_price": 0.828998831053992,
+    "trade_size": 2726
+  },
+  {
+    "tradeNumber": 486,
+    "timestamp": 1745957074,
+    "amm_price": 0.8336011314789007,
+    "external_price": 0.8336524829586551,
+    "trade_size": 826
+  },
+  {
+    "tradeNumber": 487,
+    "timestamp": 1745957075,
+    "amm_price": 0.8460541744220754,
+    "external_price": 0.8461522429600341,
+    "trade_size": 1330
+  },
+  {
+    "tradeNumber": 488,
+    "timestamp": 1745957076,
+    "amm_price": 0.8542132577395318,
+    "external_price": 0.8543903648966766,
+    "trade_size": 3350
+  },
+  {
+    "tradeNumber": 489,
+    "timestamp": 1745957077,
+    "amm_price": 0.8661412567221745,
+    "external_price": 0.8661780839746536,
+    "trade_size": 17
+  },
+  {
+    "tradeNumber": 490,
+    "timestamp": 1745957078,
+    "amm_price": 0.8730730104973418,
+    "external_price": 0.8732846795001622,
+    "trade_size": 4077
+  },
+  {
+    "tradeNumber": 491,
+    "timestamp": 1745957079,
+    "amm_price": 0.8617883026948093,
+    "external_price": 0.8618562115391102,
+    "trade_size": 2134
+  },
+  {
+    "tradeNumber": 492,
+    "timestamp": 1745957080,
+    "amm_price": 0.86220409396637,
+    "external_price": 0.8624318658035464,
+    "trade_size": 4933
+  },
+  {
+    "tradeNumber": 493,
+    "timestamp": 1745957081,
+    "amm_price": 0.8782567243595015,
+    "external_price": 0.8784952842336804,
+    "trade_size": 4067
+  },
+  {
+    "tradeNumber": 494,
+    "timestamp": 1745957082,
+    "amm_price": 0.8731064437562248,
+    "external_price": 0.8730944902163711,
+    "trade_size": 71
+  },
+  {
+    "tradeNumber": 495,
+    "timestamp": 1745957083,
+    "amm_price": 0.874874879191799,
+    "external_price": 0.8750853337432517,
+    "trade_size": 4356
+  },
+  {
+    "tradeNumber": 496,
+    "timestamp": 1745957084,
+    "amm_price": 0.8758180306587694,
+    "external_price": 0.8758695896695649,
+    "trade_size": 1001
+  },
+  {
+    "tradeNumber": 497,
+    "timestamp": 1745957085,
+    "amm_price": 0.86671870727008,
+    "external_price": 0.8668079264375691,
+    "trade_size": 2436
+  },
+  {
+    "tradeNumber": 498,
+    "timestamp": 1745957086,
+    "amm_price": 0.8499117918927445,
+    "external_price": 0.8499870173285479,
+    "trade_size": 2684
+  },
+  {
+    "tradeNumber": 499,
+    "timestamp": 1745957087,
+    "amm_price": 0.8360526477906896,
+    "external_price": 0.8360394357782682,
+    "trade_size": 610
+  },
+  {
+    "tradeNumber": 500,
+    "timestamp": 1745957088,
+    "amm_price": 0.8330067634548897,
+    "external_price": 0.8332142952750279,
+    "trade_size": 4946
+  }
+]

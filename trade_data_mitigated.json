@@ -1,0 +1,4002 @@
+[
+  {
+    "tradeNumber": 1,
+    "timestamp": 1745958299,
+    "amm_price": 0.9853971501437845,
+    "external_price": 0.9854080197144568,
+    "trade_size": 926,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 2,
+    "timestamp": 1745958300,
+    "amm_price": 0.9847156809247689,
+    "external_price": 0.984907448628074,
+    "trade_size": 3415,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 3,
+    "timestamp": 1745958301,
+    "amm_price": 0.9824574410235569,
+    "external_price": 0.9824710759812116,
+    "trade_size": 350,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 4,
+    "timestamp": 1745958301,
+    "amm_price": 0.9742982191704271,
+    "external_price": 0.9740934256705603,
+    "trade_size": 3170,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 5,
+    "timestamp": 1745958301,
+    "amm_price": 0.9880974078271818,
+    "external_price": 0.9880359439942106,
+    "trade_size": 1740,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 6,
+    "timestamp": 1745958301,
+    "amm_price": 1.003563386795286,
+    "external_price": 1.0034417914278333,
+    "trade_size": 2842,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 7,
+    "timestamp": 1745958302,
+    "amm_price": 1.0075690749171418,
+    "external_price": 1.0078495171155557,
+    "trade_size": 4646,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 8,
+    "timestamp": 1745958303,
+    "amm_price": 0.9913938167503639,
+    "external_price": 0.9915930622769772,
+    "trade_size": 4292,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 9,
+    "timestamp": 1745958303,
+    "amm_price": 1.0057284460820624,
+    "external_price": 1.0057435137418675,
+    "trade_size": 469,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 10,
+    "timestamp": 1745958304,
+    "amm_price": 1.0088006416812383,
+    "external_price": 1.0090901602569742,
+    "trade_size": 4848,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 11,
+    "timestamp": 1745958305,
+    "amm_price": 1.0088144886458443,
+    "external_price": 1.0088515701416438,
+    "trade_size": 613,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 12,
+    "timestamp": 1745958305,
+    "amm_price": 1.0132557238800586,
+    "external_price": 1.0131946503690645,
+    "trade_size": 1243,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 13,
+    "timestamp": 1745958306,
+    "amm_price": 1.002952300882168,
+    "external_price": 1.003042098314662,
+    "trade_size": 2023,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 14,
+    "timestamp": 1745958307,
+    "amm_price": 1.0024508916771786,
+    "external_price": 1.0026100234319502,
+    "trade_size": 2739,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 15,
+    "timestamp": 1745958307,
+    "amm_price": 1.0182395209386759,
+    "external_price": 1.0181063722438588,
+    "trade_size": 3036,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 16,
+    "timestamp": 1745958307,
+    "amm_price": 1.0093115843286007,
+    "external_price": 1.009076723948701,
+    "trade_size": 3609,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 17,
+    "timestamp": 1745958307,
+    "amm_price": 1.0095647115801387,
+    "external_price": 1.0094516948236696,
+    "trade_size": 1923,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 18,
+    "timestamp": 1745958308,
+    "amm_price": 1.0119063693762498,
+    "external_price": 1.011999444362856,
+    "trade_size": 1432,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 19,
+    "timestamp": 1745958308,
+    "amm_price": 1.011222808822688,
+    "external_price": 1.0110191364479104,
+    "trade_size": 3459,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 20,
+    "timestamp": 1745958309,
+    "amm_price": 0.9918296236058466,
+    "external_price": 0.9918533298306839,
+    "trade_size": 1372,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 21,
+    "timestamp": 1745958310,
+    "amm_price": 1.0045660429229544,
+    "external_price": 1.0047349671432335,
+    "trade_size": 2236,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 22,
+    "timestamp": 1745958310,
+    "amm_price": 1.023096308576845,
+    "external_price": 1.0229242455566487,
+    "trade_size": 3840,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 23,
+    "timestamp": 1745958311,
+    "amm_price": 1.0252062757997817,
+    "external_price": 1.0254812241615803,
+    "trade_size": 4518,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 24,
+    "timestamp": 1745958311,
+    "amm_price": 1.0441500558456034,
+    "external_price": 1.044100604240652,
+    "trade_size": 1747,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 25,
+    "timestamp": 1745958312,
+    "amm_price": 1.0336398490136465,
+    "external_price": 1.0336560882277452,
+    "trade_size": 756,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 26,
+    "timestamp": 1745958312,
+    "amm_price": 1.0540632426009031,
+    "external_price": 1.0540369572308192,
+    "trade_size": 1431,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 27,
+    "timestamp": 1745958312,
+    "amm_price": 1.0730732395537905,
+    "external_price": 1.073006834129981,
+    "trade_size": 2004,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 28,
+    "timestamp": 1745958313,
+    "amm_price": 1.0638354846293183,
+    "external_price": 1.0640260069742524,
+    "trade_size": 3402,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 29,
+    "timestamp": 1745958313,
+    "amm_price": 1.0624921925325232,
+    "external_price": 1.0623775696269735,
+    "trade_size": 1822,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 30,
+    "timestamp": 1745958313,
+    "amm_price": 1.074323323144445,
+    "external_price": 1.0740869947569618,
+    "trade_size": 4519,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 31,
+    "timestamp": 1745958314,
+    "amm_price": 1.0923018209836854,
+    "external_price": 1.0926025540453688,
+    "trade_size": 3801,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 32,
+    "timestamp": 1745958315,
+    "amm_price": 1.1075143725622023,
+    "external_price": 1.1078501230616749,
+    "trade_size": 4394,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 33,
+    "timestamp": 1745958315,
+    "amm_price": 1.115290994970496,
+    "external_price": 1.1150553956503537,
+    "trade_size": 4224,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 34,
+    "timestamp": 1745958315,
+    "amm_price": 1.1296212747789693,
+    "external_price": 1.129533987699264,
+    "trade_size": 2065,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 35,
+    "timestamp": 1745958316,
+    "amm_price": 1.1309956895340507,
+    "external_price": 1.1311426578314179,
+    "trade_size": 2024,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 36,
+    "timestamp": 1745958316,
+    "amm_price": 1.117430629856942,
+    "external_price": 1.117115289894094,
+    "trade_size": 4576,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 37,
+    "timestamp": 1745958317,
+    "amm_price": 1.0985635381781396,
+    "external_price": 1.0986870430207047,
+    "trade_size": 2633,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 38,
+    "timestamp": 1745958318,
+    "amm_price": 1.1081443730483809,
+    "external_price": 1.1082243546766737,
+    "trade_size": 742,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 39,
+    "timestamp": 1745958318,
+    "amm_price": 1.1023268709640752,
+    "external_price": 1.1022159715607502,
+    "trade_size": 1513,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 40,
+    "timestamp": 1745958318,
+    "amm_price": 1.0825260918343096,
+    "external_price": 1.082405574725437,
+    "trade_size": 1017,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 41,
+    "timestamp": 1745958319,
+    "amm_price": 1.099201048846213,
+    "external_price": 1.0994872524320036,
+    "trade_size": 3592,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 42,
+    "timestamp": 1745958319,
+    "amm_price": 1.1228818729301435,
+    "external_price": 1.122773878044971,
+    "trade_size": 2853,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 43,
+    "timestamp": 1745958319,
+    "amm_price": 1.1147779883232463,
+    "external_price": 1.11467444390222,
+    "trade_size": 1276,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 44,
+    "timestamp": 1745958320,
+    "amm_price": 1.0974453615586663,
+    "external_price": 1.0977081205756005,
+    "trade_size": 4714,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 45,
+    "timestamp": 1745958320,
+    "amm_price": 1.0899929116850235,
+    "external_price": 1.0898995898029544,
+    "trade_size": 1154,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 46,
+    "timestamp": 1745958320,
+    "amm_price": 1.0824453006496157,
+    "external_price": 1.0822444005725187,
+    "trade_size": 2958,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 47,
+    "timestamp": 1745958320,
+    "amm_price": 1.0944479270718033,
+    "external_price": 1.0944839548545573,
+    "trade_size": 3,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 48,
+    "timestamp": 1745958320,
+    "amm_price": 1.0881532828432166,
+    "external_price": 1.0878503918594895,
+    "trade_size": 4773,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 49,
+    "timestamp": 1745958321,
+    "amm_price": 1.094466408793681,
+    "external_price": 1.0946429043156023,
+    "trade_size": 2362,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 50,
+    "timestamp": 1745958322,
+    "amm_price": 1.0973321617846306,
+    "external_price": 1.097419231332029,
+    "trade_size": 1154,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 51,
+    "timestamp": 1745958322,
+    "amm_price": 1.085280985699709,
+    "external_price": 1.0850514533426003,
+    "trade_size": 3228,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 52,
+    "timestamp": 1745958322,
+    "amm_price": 1.091385384387504,
+    "external_price": 1.091165177039427,
+    "trade_size": 3929,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 53,
+    "timestamp": 1745958323,
+    "amm_price": 1.112219921504698,
+    "external_price": 1.1124268899016752,
+    "trade_size": 2131,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 54,
+    "timestamp": 1745958324,
+    "amm_price": 1.1022338377405496,
+    "external_price": 1.102436790819924,
+    "trade_size": 3445,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 55,
+    "timestamp": 1745958324,
+    "amm_price": 1.1244104481828863,
+    "external_price": 1.1244498348855592,
+    "trade_size": 435,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 56,
+    "timestamp": 1745958324,
+    "amm_price": 1.1323519050974817,
+    "external_price": 1.132165135622021,
+    "trade_size": 3383,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 57,
+    "timestamp": 1745958325,
+    "amm_price": 1.14191017097508,
+    "external_price": 1.14227824156283,
+    "trade_size": 4916,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 58,
+    "timestamp": 1745958325,
+    "amm_price": 1.1495203402816099,
+    "external_price": 1.1493419729379628,
+    "trade_size": 3203,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 59,
+    "timestamp": 1745958325,
+    "amm_price": 1.14199780548723,
+    "external_price": 1.141958887185263,
+    "trade_size": 258,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 60,
+    "timestamp": 1745958325,
+    "amm_price": 1.1214796039532229,
+    "external_price": 1.121408359880753,
+    "trade_size": 166,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 61,
+    "timestamp": 1745958325,
+    "amm_price": 1.1301401114747518,
+    "external_price": 1.1299618284883777,
+    "trade_size": 3280,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 62,
+    "timestamp": 1745958325,
+    "amm_price": 1.137851363541125,
+    "external_price": 1.137642722063648,
+    "trade_size": 3726,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 63,
+    "timestamp": 1745958325,
+    "amm_price": 1.1563355226717704,
+    "external_price": 1.1561870572288455,
+    "trade_size": 3217,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 64,
+    "timestamp": 1745958326,
+    "amm_price": 1.1337387272610613,
+    "external_price": 1.1337028786177676,
+    "trade_size": 430,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 65,
+    "timestamp": 1745958326,
+    "amm_price": 1.1406939524251813,
+    "external_price": 1.1405379119907397,
+    "trade_size": 2819,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 66,
+    "timestamp": 1745958326,
+    "amm_price": 1.146771417435245,
+    "external_price": 1.1466893939694471,
+    "trade_size": 1577,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 67,
+    "timestamp": 1745958326,
+    "amm_price": 1.1406338167193335,
+    "external_price": 1.1403683702940146,
+    "trade_size": 4022,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 68,
+    "timestamp": 1745958326,
+    "amm_price": 1.1371237197038935,
+    "external_price": 1.136848422691067,
+    "trade_size": 4319,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 69,
+    "timestamp": 1745958327,
+    "amm_price": 1.131354220716421,
+    "external_price": 1.131420039060279,
+    "trade_size": 1160,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 70,
+    "timestamp": 1745958328,
+    "amm_price": 1.1193372378775013,
+    "external_price": 1.119462357389728,
+    "trade_size": 2299,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 71,
+    "timestamp": 1745958329,
+    "amm_price": 1.138544121365728,
+    "external_price": 1.1388098266880715,
+    "trade_size": 2989,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 72,
+    "timestamp": 1745958330,
+    "amm_price": 1.1376338052540003,
+    "external_price": 1.137922281494174,
+    "trade_size": 4174,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 73,
+    "timestamp": 1745958331,
+    "amm_price": 1.1240739976735568,
+    "external_price": 1.1243298522712675,
+    "trade_size": 4284,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 74,
+    "timestamp": 1745958332,
+    "amm_price": 1.129810536523782,
+    "external_price": 1.1299781885025153,
+    "trade_size": 2145,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 75,
+    "timestamp": 1745958332,
+    "amm_price": 1.1301200199015689,
+    "external_price": 1.1301046573752487,
+    "trade_size": 256,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 76,
+    "timestamp": 1745958332,
+    "amm_price": 1.1559803153592831,
+    "external_price": 1.15580073072578,
+    "trade_size": 4071,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 77,
+    "timestamp": 1745958332,
+    "amm_price": 1.1591076413520938,
+    "external_price": 1.1590250326151572,
+    "trade_size": 1440,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 78,
+    "timestamp": 1745958332,
+    "amm_price": 1.1667535577628174,
+    "external_price": 1.1667070488858409,
+    "trade_size": 1078,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 79,
+    "timestamp": 1745958332,
+    "amm_price": 1.1773140086694664,
+    "external_price": 1.17716147310285,
+    "trade_size": 2884,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 80,
+    "timestamp": 1745958333,
+    "amm_price": 1.1590186150539272,
+    "external_price": 1.1592029745385688,
+    "trade_size": 3256,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 81,
+    "timestamp": 1745958334,
+    "amm_price": 1.1671233982728473,
+    "external_price": 1.1675013180693248,
+    "trade_size": 4955,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 82,
+    "timestamp": 1745958334,
+    "amm_price": 1.150890753244116,
+    "external_price": 1.1505554077190048,
+    "trade_size": 4720,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 83,
+    "timestamp": 1745958334,
+    "amm_price": 1.13616524010981,
+    "external_price": 1.1360630258767321,
+    "trade_size": 932,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 84,
+    "timestamp": 1745958335,
+    "amm_price": 1.1265925639084529,
+    "external_price": 1.1268784673078036,
+    "trade_size": 4559,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 85,
+    "timestamp": 1745958335,
+    "amm_price": 1.1320169038508547,
+    "external_price": 1.1319956479815938,
+    "trade_size": 590,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 86,
+    "timestamp": 1745958335,
+    "amm_price": 1.1188472274520829,
+    "external_price": 1.118607253553664,
+    "trade_size": 3299,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 87,
+    "timestamp": 1745958335,
+    "amm_price": 1.1378479094731642,
+    "external_price": 1.1377022267443,
+    "trade_size": 3223,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 88,
+    "timestamp": 1745958336,
+    "amm_price": 1.138211297682375,
+    "external_price": 1.138424085212855,
+    "trade_size": 2999,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 89,
+    "timestamp": 1745958337,
+    "amm_price": 1.140883226729938,
+    "external_price": 1.1411256089940796,
+    "trade_size": 3326,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 90,
+    "timestamp": 1745958337,
+    "amm_price": 1.1647739771381262,
+    "external_price": 1.1645690693834057,
+    "trade_size": 4376,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 91,
+    "timestamp": 1745958338,
+    "amm_price": 1.1793379064626899,
+    "external_price": 1.1796974123324617,
+    "trade_size": 4352,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 92,
+    "timestamp": 1745958338,
+    "amm_price": 1.1729594475937977,
+    "external_price": 1.1727398143422052,
+    "trade_size": 3194,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 93,
+    "timestamp": 1745958339,
+    "amm_price": 1.163096354147425,
+    "external_price": 1.1632054273835002,
+    "trade_size": 1864,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 94,
+    "timestamp": 1745958339,
+    "amm_price": 1.1641225932410268,
+    "external_price": 1.1638547127212386,
+    "trade_size": 4351,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 95,
+    "timestamp": 1745958340,
+    "amm_price": 1.1764918052091236,
+    "external_price": 1.1767898862104555,
+    "trade_size": 3574,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 96,
+    "timestamp": 1745958340,
+    "amm_price": 1.174726034760965,
+    "external_price": 1.1747183907053345,
+    "trade_size": 36,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 97,
+    "timestamp": 1745958341,
+    "amm_price": 1.1539107008049339,
+    "external_price": 1.1539055732411039,
+    "trade_size": 762,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 98,
+    "timestamp": 1745958342,
+    "amm_price": 1.1598113323672476,
+    "external_price": 1.1600288622614963,
+    "trade_size": 2758,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 99,
+    "timestamp": 1745958342,
+    "amm_price": 1.1544405536769544,
+    "external_price": 1.1541217381910693,
+    "trade_size": 4934,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 100,
+    "timestamp": 1745958342,
+    "amm_price": 1.1685640761196698,
+    "external_price": 1.168577646094471,
+    "trade_size": 448,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 101,
+    "timestamp": 1745958343,
+    "amm_price": 1.1910164367907314,
+    "external_price": 1.191156202325764,
+    "trade_size": 949,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 102,
+    "timestamp": 1745958343,
+    "amm_price": 1.1982531310134343,
+    "external_price": 1.1982464410190707,
+    "trade_size": 434,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 103,
+    "timestamp": 1745958344,
+    "amm_price": 1.2160820188230255,
+    "external_price": 1.2165039539087457,
+    "trade_size": 4890,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 104,
+    "timestamp": 1745958344,
+    "amm_price": 1.2333033916342544,
+    "external_price": 1.233109923855753,
+    "trade_size": 3762,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 105,
+    "timestamp": 1745958344,
+    "amm_price": 1.2518275761845488,
+    "external_price": 1.2517090729424711,
+    "trade_size": 2627,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 106,
+    "timestamp": 1745958344,
+    "amm_price": 1.2594091318378249,
+    "external_price": 1.259109454718032,
+    "trade_size": 4974,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 107,
+    "timestamp": 1745958344,
+    "amm_price": 1.2828825049054335,
+    "external_price": 1.2827309566166456,
+    "trade_size": 3319,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 108,
+    "timestamp": 1745958344,
+    "amm_price": 1.297833211736077,
+    "external_price": 1.2978389575256581,
+    "trade_size": 576,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 109,
+    "timestamp": 1745958345,
+    "amm_price": 1.279790304607903,
+    "external_price": 1.2797933040067555,
+    "trade_size": 653,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 110,
+    "timestamp": 1745958345,
+    "amm_price": 1.2891004483547428,
+    "external_price": 1.2889099552888288,
+    "trade_size": 3279,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 111,
+    "timestamp": 1745958346,
+    "amm_price": 1.3131116770149425,
+    "external_price": 1.3132418031484343,
+    "trade_size": 654,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 112,
+    "timestamp": 1745958347,
+    "amm_price": 1.2880029238541446,
+    "external_price": 1.2880857845561269,
+    "trade_size": 1804,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 113,
+    "timestamp": 1745958348,
+    "amm_price": 1.2719562423125483,
+    "external_price": 1.2721379409225044,
+    "trade_size": 2718,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 114,
+    "timestamp": 1745958349,
+    "amm_price": 1.2502477815719235,
+    "external_price": 1.2504557042696116,
+    "trade_size": 3318,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 115,
+    "timestamp": 1745958350,
+    "amm_price": 1.239192620767135,
+    "external_price": 1.2394878487192655,
+    "trade_size": 4113,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 116,
+    "timestamp": 1745958350,
+    "amm_price": 1.2175948183659016,
+    "external_price": 1.2175149771597569,
+    "trade_size": 242,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 117,
+    "timestamp": 1745958351,
+    "amm_price": 1.1983591011348538,
+    "external_price": 1.1985172605238203,
+    "trade_size": 2781,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 118,
+    "timestamp": 1745958351,
+    "amm_price": 1.191691658939723,
+    "external_price": 1.1916643930751583,
+    "trade_size": 112,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 119,
+    "timestamp": 1745958351,
+    "amm_price": 1.178729894027828,
+    "external_price": 1.1785079844257478,
+    "trade_size": 2920,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 120,
+    "timestamp": 1745958351,
+    "amm_price": 1.165548743992705,
+    "external_price": 1.1654028349305596,
+    "trade_size": 1690,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 121,
+    "timestamp": 1745958352,
+    "amm_price": 1.1607885760093568,
+    "external_price": 1.1609619861438927,
+    "trade_size": 2560,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 122,
+    "timestamp": 1745958352,
+    "amm_price": 1.1604454937894657,
+    "external_price": 1.1602449457602253,
+    "trade_size": 3179,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 123,
+    "timestamp": 1745958353,
+    "amm_price": 1.1427180910164587,
+    "external_price": 1.1430107723935645,
+    "trade_size": 4890,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 124,
+    "timestamp": 1745958353,
+    "amm_price": 1.1327476778349093,
+    "external_price": 1.1324537739729288,
+    "trade_size": 4342,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 125,
+    "timestamp": 1745958354,
+    "amm_price": 1.1407908925069543,
+    "external_price": 1.141016851367086,
+    "trade_size": 2863,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 126,
+    "timestamp": 1745958355,
+    "amm_price": 1.133892206578762,
+    "external_price": 1.1340369885709216,
+    "trade_size": 2327,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 127,
+    "timestamp": 1745958356,
+    "amm_price": 1.1372437046880621,
+    "external_price": 1.1372845652730246,
+    "trade_size": 426,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 128,
+    "timestamp": 1745958356,
+    "amm_price": 1.159220174082338,
+    "external_price": 1.1590449001834422,
+    "trade_size": 3812,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 129,
+    "timestamp": 1745958357,
+    "amm_price": 1.1603411762228222,
+    "external_price": 1.160552454576208,
+    "trade_size": 2860,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 130,
+    "timestamp": 1745958357,
+    "amm_price": 1.1803175423297185,
+    "external_price": 1.180225417024304,
+    "trade_size": 2358,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 131,
+    "timestamp": 1745958357,
+    "amm_price": 1.204283374713028,
+    "external_price": 1.2041272692980194,
+    "trade_size": 3524,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 132,
+    "timestamp": 1745958358,
+    "amm_price": 1.1805190349914192,
+    "external_price": 1.1807445789469804,
+    "trade_size": 3942,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 133,
+    "timestamp": 1745958359,
+    "amm_price": 1.1950293203651126,
+    "external_price": 1.1952269260353034,
+    "trade_size": 2030,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 134,
+    "timestamp": 1745958360,
+    "amm_price": 1.193497715568086,
+    "external_price": 1.1935691404988633,
+    "trade_size": 981,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 135,
+    "timestamp": 1745958361,
+    "amm_price": 1.2024019639851533,
+    "external_price": 1.2027646078524608,
+    "trade_size": 4485,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 136,
+    "timestamp": 1745958362,
+    "amm_price": 1.2082619491706321,
+    "external_price": 1.2084635631694884,
+    "trade_size": 2380,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 137,
+    "timestamp": 1745958362,
+    "amm_price": 1.2110765088008943,
+    "external_price": 1.2107897464195099,
+    "trade_size": 4650,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 138,
+    "timestamp": 1745958362,
+    "amm_price": 1.1962245902345816,
+    "external_price": 1.1959442483706022,
+    "trade_size": 3767,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 139,
+    "timestamp": 1745958362,
+    "amm_price": 1.2118516590733597,
+    "external_price": 1.2116112904020546,
+    "trade_size": 4478,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 140,
+    "timestamp": 1745958363,
+    "amm_price": 1.22176917964014,
+    "external_price": 1.2218121598682563,
+    "trade_size": 163,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 141,
+    "timestamp": 1745958363,
+    "amm_price": 1.2184896557674172,
+    "external_price": 1.2184587318165245,
+    "trade_size": 320,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 142,
+    "timestamp": 1745958364,
+    "amm_price": 1.2119222068545694,
+    "external_price": 1.2122294118399934,
+    "trade_size": 4252,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 143,
+    "timestamp": 1745958364,
+    "amm_price": 1.220949701001317,
+    "external_price": 1.2208812314105224,
+    "trade_size": 1453,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 144,
+    "timestamp": 1745958364,
+    "amm_price": 1.2303848418629095,
+    "external_price": 1.2303278110444706,
+    "trade_size": 1291,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 145,
+    "timestamp": 1745958364,
+    "amm_price": 1.2407111580595822,
+    "external_price": 1.240548447072525,
+    "trade_size": 2955,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 146,
+    "timestamp": 1745958364,
+    "amm_price": 1.2315312964467486,
+    "external_price": 1.2313070082405595,
+    "trade_size": 3060,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 147,
+    "timestamp": 1745958365,
+    "amm_price": 1.2429152824954328,
+    "external_price": 1.243044369803894,
+    "trade_size": 1165,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 148,
+    "timestamp": 1745958365,
+    "amm_price": 1.25240694245826,
+    "external_price": 1.2522516353573925,
+    "trade_size": 2788,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 149,
+    "timestamp": 1745958365,
+    "amm_price": 1.2329296723999157,
+    "external_price": 1.232685130140181,
+    "trade_size": 2920,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 150,
+    "timestamp": 1745958366,
+    "amm_price": 1.2168521754422101,
+    "external_price": 1.2170147409973675,
+    "trade_size": 2659,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 151,
+    "timestamp": 1745958367,
+    "amm_price": 1.2044817392260796,
+    "external_price": 1.204564483616252,
+    "trade_size": 1521,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 152,
+    "timestamp": 1745958368,
+    "amm_price": 1.1878741783024322,
+    "external_price": 1.1879962210831954,
+    "trade_size": 2235,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 153,
+    "timestamp": 1745958369,
+    "amm_price": 1.2098561207185392,
+    "external_price": 1.2099296962034323,
+    "trade_size": 91,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 154,
+    "timestamp": 1745958369,
+    "amm_price": 1.2096747992622834,
+    "external_price": 1.2095274460643313,
+    "trade_size": 2271,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 155,
+    "timestamp": 1745958370,
+    "amm_price": 1.2274262390829074,
+    "external_price": 1.2277250808155684,
+    "trade_size": 3155,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 156,
+    "timestamp": 1745958370,
+    "amm_price": 1.255757145191545,
+    "external_price": 1.2555642839857466,
+    "trade_size": 4219,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 157,
+    "timestamp": 1745958371,
+    "amm_price": 1.2350352338689246,
+    "external_price": 1.2353248523196292,
+    "trade_size": 4407,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 158,
+    "timestamp": 1745958371,
+    "amm_price": 1.259142326214986,
+    "external_price": 1.2589647966585276,
+    "trade_size": 3783,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 159,
+    "timestamp": 1745958372,
+    "amm_price": 1.2644028687206068,
+    "external_price": 1.2644492587352898,
+    "trade_size": 361,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 160,
+    "timestamp": 1745958372,
+    "amm_price": 1.264489279463012,
+    "external_price": 1.2641991651834066,
+    "trade_size": 4475,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 161,
+    "timestamp": 1745958372,
+    "amm_price": 1.279660343660317,
+    "external_price": 1.279634542890892,
+    "trade_size": 1056,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 162,
+    "timestamp": 1745958372,
+    "amm_price": 1.2651675540885265,
+    "external_price": 1.2649175782869437,
+    "trade_size": 3186,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 163,
+    "timestamp": 1745958372,
+    "amm_price": 1.2672036914464333,
+    "external_price": 1.2669133098408116,
+    "trade_size": 4561,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 164,
+    "timestamp": 1745958373,
+    "amm_price": 1.2474498738044355,
+    "external_price": 1.2474722358647825,
+    "trade_size": 971,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 165,
+    "timestamp": 1745958374,
+    "amm_price": 1.239284955197969,
+    "external_price": 1.2393633941891924,
+    "trade_size": 1253,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 166,
+    "timestamp": 1745958374,
+    "amm_price": 1.2411821849284939,
+    "external_price": 1.2409766904689397,
+    "trade_size": 3247,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 167,
+    "timestamp": 1745958375,
+    "amm_price": 1.2208348213274438,
+    "external_price": 1.2209626910164888,
+    "trade_size": 2355,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 168,
+    "timestamp": 1745958375,
+    "amm_price": 1.2423971374665084,
+    "external_price": 1.2421576138759223,
+    "trade_size": 4675,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 169,
+    "timestamp": 1745958375,
+    "amm_price": 1.2483819936433518,
+    "external_price": 1.2481279944620753,
+    "trade_size": 4191,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 170,
+    "timestamp": 1745958376,
+    "amm_price": 1.2254823974701208,
+    "external_price": 1.2254770376658108,
+    "trade_size": 769,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 171,
+    "timestamp": 1745958377,
+    "amm_price": 1.2400400578324582,
+    "external_price": 1.2403251482492665,
+    "trade_size": 3044,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 172,
+    "timestamp": 1745958378,
+    "amm_price": 1.2581162685003615,
+    "external_price": 1.2585475936746549,
+    "trade_size": 4752,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 173,
+    "timestamp": 1745958379,
+    "amm_price": 1.2516355734720572,
+    "external_price": 1.2519575243378904,
+    "trade_size": 4234,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 174,
+    "timestamp": 1745958380,
+    "amm_price": 1.2303127722346008,
+    "external_price": 1.2304935821757015,
+    "trade_size": 3037,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 175,
+    "timestamp": 1745958381,
+    "amm_price": 1.2319394039646914,
+    "external_price": 1.2322329830167094,
+    "trade_size": 3666,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 176,
+    "timestamp": 1745958381,
+    "amm_price": 1.2464227773814802,
+    "external_price": 1.2462016710902755,
+    "trade_size": 4054,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 177,
+    "timestamp": 1745958381,
+    "amm_price": 1.2456045846581365,
+    "external_price": 1.2454249476610726,
+    "trade_size": 2712,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 178,
+    "timestamp": 1745958382,
+    "amm_price": 1.2661287290899121,
+    "external_price": 1.2663188835703472,
+    "trade_size": 1550,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 179,
+    "timestamp": 1745958383,
+    "amm_price": 1.2480740940794424,
+    "external_price": 1.2481440106802861,
+    "trade_size": 1486,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 180,
+    "timestamp": 1745958383,
+    "amm_price": 1.2665634510315598,
+    "external_price": 1.266404970458461,
+    "trade_size": 3224,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 181,
+    "timestamp": 1745958384,
+    "amm_price": 1.2685726094362628,
+    "external_price": 1.2687109631766704,
+    "trade_size": 1573,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 182,
+    "timestamp": 1745958384,
+    "amm_price": 1.2464995456862364,
+    "external_price": 1.2463885370483472,
+    "trade_size": 695,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 183,
+    "timestamp": 1745958384,
+    "amm_price": 1.2377153206557392,
+    "external_price": 1.2376380173117787,
+    "trade_size": 775,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 184,
+    "timestamp": 1745958384,
+    "amm_price": 1.2456082351302016,
+    "external_price": 1.2454810801760452,
+    "trade_size": 2287,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 185,
+    "timestamp": 1745958384,
+    "amm_price": 1.2661955558829707,
+    "external_price": 1.2662047581365599,
+    "trade_size": 785,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 186,
+    "timestamp": 1745958384,
+    "amm_price": 1.2491940755621782,
+    "external_price": 1.2490638511767003,
+    "trade_size": 1216,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 187,
+    "timestamp": 1745958385,
+    "amm_price": 1.26438896733764,
+    "external_price": 1.2647688480178767,
+    "trade_size": 4146,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 188,
+    "timestamp": 1745958386,
+    "amm_price": 1.254885389613446,
+    "external_price": 1.2551300639457967,
+    "trade_size": 3335,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 189,
+    "timestamp": 1745958386,
+    "amm_price": 1.237831191489145,
+    "external_price": 1.2375081823524048,
+    "trade_size": 4293,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 190,
+    "timestamp": 1745958386,
+    "amm_price": 1.2225056017299878,
+    "external_price": 1.2221727655757448,
+    "trade_size": 4563,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 191,
+    "timestamp": 1745958386,
+    "amm_price": 1.2415396529779874,
+    "external_price": 1.2413435313791352,
+    "trade_size": 3873,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 192,
+    "timestamp": 1745958386,
+    "amm_price": 1.2391502770202503,
+    "external_price": 1.2390803057983042,
+    "trade_size": 950,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 193,
+    "timestamp": 1745958386,
+    "amm_price": 1.2367202660091006,
+    "external_price": 1.2365957165268455,
+    "trade_size": 1789,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 194,
+    "timestamp": 1745958387,
+    "amm_price": 1.244926815089039,
+    "external_price": 1.2451526467770297,
+    "trade_size": 2496,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 195,
+    "timestamp": 1745958388,
+    "amm_price": 1.2390222909631843,
+    "external_price": 1.239109962810178,
+    "trade_size": 1286,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 196,
+    "timestamp": 1745958388,
+    "amm_price": 1.250894176467394,
+    "external_price": 1.2506286355178156,
+    "trade_size": 4636,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 197,
+    "timestamp": 1745958388,
+    "amm_price": 1.2506982368131385,
+    "external_price": 1.2505432346031278,
+    "trade_size": 2350,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 198,
+    "timestamp": 1745958388,
+    "amm_price": 1.273684702715509,
+    "external_price": 1.2737097638855464,
+    "trade_size": 656,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 199,
+    "timestamp": 1745958389,
+    "amm_price": 1.2588487978209877,
+    "external_price": 1.2588434446818506,
+    "trade_size": 459,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 200,
+    "timestamp": 1745958389,
+    "amm_price": 1.2398129027235172,
+    "external_price": 1.2395936210033158,
+    "trade_size": 2528,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 201,
+    "timestamp": 1745958390,
+    "amm_price": 1.2517715202819497,
+    "external_price": 1.2520748781424604,
+    "trade_size": 3330,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 202,
+    "timestamp": 1745958391,
+    "amm_price": 1.2744586961217264,
+    "external_price": 1.2747857046631854,
+    "trade_size": 3155,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 203,
+    "timestamp": 1745958392,
+    "amm_price": 1.2655636643819497,
+    "external_price": 1.2658467245288751,
+    "trade_size": 3753,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 204,
+    "timestamp": 1745958392,
+    "amm_price": 1.2600755548236513,
+    "external_price": 1.2598868939170154,
+    "trade_size": 2628,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 205,
+    "timestamp": 1745958392,
+    "amm_price": 1.2800594707431798,
+    "external_price": 1.2800564371340017,
+    "trade_size": 934,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 206,
+    "timestamp": 1745958392,
+    "amm_price": 1.2954328897840726,
+    "external_price": 1.2951549219334928,
+    "trade_size": 4901,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 207,
+    "timestamp": 1745958393,
+    "amm_price": 1.3161945667043013,
+    "external_price": 1.3163069106072804,
+    "trade_size": 560,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 208,
+    "timestamp": 1745958393,
+    "amm_price": 1.3282943018858184,
+    "external_price": 1.3282640401195376,
+    "trade_size": 967,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 209,
+    "timestamp": 1745958393,
+    "amm_price": 1.3272893960854002,
+    "external_price": 1.327196840219808,
+    "trade_size": 1311,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 210,
+    "timestamp": 1745958393,
+    "amm_price": 1.3498788364658618,
+    "external_price": 1.349865069609826,
+    "trade_size": 1177,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 211,
+    "timestamp": 1745958394,
+    "amm_price": 1.3525798623990684,
+    "external_price": 1.3529979592341124,
+    "trade_size": 4583,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 212,
+    "timestamp": 1745958394,
+    "amm_price": 1.3797542156646547,
+    "external_price": 1.379746186920334,
+    "trade_size": 1280,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 213,
+    "timestamp": 1745958394,
+    "amm_price": 1.4050617901384452,
+    "external_price": 1.405071362326696,
+    "trade_size": 941,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 214,
+    "timestamp": 1745958395,
+    "amm_price": 1.388147807339189,
+    "external_price": 1.388141531959278,
+    "trade_size": 450,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 215,
+    "timestamp": 1745958395,
+    "amm_price": 1.4135418979376133,
+    "external_price": 1.4135934034511313,
+    "trade_size": 354,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 216,
+    "timestamp": 1745958396,
+    "amm_price": 1.385206692309582,
+    "external_price": 1.3853437502239765,
+    "trade_size": 2283,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 217,
+    "timestamp": 1745958396,
+    "amm_price": 1.3750318913895114,
+    "external_price": 1.3748268053973713,
+    "trade_size": 2555,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 218,
+    "timestamp": 1745958397,
+    "amm_price": 1.35404165101538,
+    "external_price": 1.354088232511834,
+    "trade_size": 1156,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 219,
+    "timestamp": 1745958397,
+    "amm_price": 1.3505165977703169,
+    "external_price": 1.350469802681115,
+    "trade_size": 523,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 220,
+    "timestamp": 1745958398,
+    "amm_price": 1.3411104019752305,
+    "external_price": 1.3412389568659362,
+    "trade_size": 1704,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 221,
+    "timestamp": 1745958399,
+    "amm_price": 1.3389372549015703,
+    "external_price": 1.3391438429381954,
+    "trade_size": 2351,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 222,
+    "timestamp": 1745958400,
+    "amm_price": 1.3332604414841227,
+    "external_price": 1.3335451609106823,
+    "trade_size": 3380,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 223,
+    "timestamp": 1745958401,
+    "amm_price": 1.325459842753562,
+    "external_price": 1.3256400616175592,
+    "trade_size": 2269,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 224,
+    "timestamp": 1745958402,
+    "amm_price": 1.343993902330278,
+    "external_price": 1.3444050231922444,
+    "trade_size": 4030,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 225,
+    "timestamp": 1745958402,
+    "amm_price": 1.334440896725292,
+    "external_price": 1.3342027126552964,
+    "trade_size": 3128,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 226,
+    "timestamp": 1745958403,
+    "amm_price": 1.3415761168966103,
+    "external_price": 1.341812629818329,
+    "trade_size": 2382,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 227,
+    "timestamp": 1745958404,
+    "amm_price": 1.3491590559093345,
+    "external_price": 1.3494736682171589,
+    "trade_size": 3237,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 228,
+    "timestamp": 1745958405,
+    "amm_price": 1.352782083706924,
+    "external_price": 1.352860778216756,
+    "trade_size": 726,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 229,
+    "timestamp": 1745958405,
+    "amm_price": 1.3468007846456789,
+    "external_price": 1.346618578786494,
+    "trade_size": 2419,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 230,
+    "timestamp": 1745958405,
+    "amm_price": 1.3467009235280603,
+    "external_price": 1.3464957014024093,
+    "trade_size": 3020,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 231,
+    "timestamp": 1745958406,
+    "amm_price": 1.3462215612887756,
+    "external_price": 1.3462405988730044,
+    "trade_size": 219,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 232,
+    "timestamp": 1745958407,
+    "amm_price": 1.3266989481335438,
+    "external_price": 1.3268836658389973,
+    "trade_size": 2696,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 233,
+    "timestamp": 1745958408,
+    "amm_price": 1.3382692888042267,
+    "external_price": 1.3384172154462752,
+    "trade_size": 1245,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 234,
+    "timestamp": 1745958408,
+    "amm_price": 1.3419470264267515,
+    "external_price": 1.341674165016052,
+    "trade_size": 4223,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 235,
+    "timestamp": 1745958409,
+    "amm_price": 1.3433916618322925,
+    "external_price": 1.3435714873298934,
+    "trade_size": 1922,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 236,
+    "timestamp": 1745958410,
+    "amm_price": 1.3667161725325785,
+    "external_price": 1.366998061176671,
+    "trade_size": 2303,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 237,
+    "timestamp": 1745958411,
+    "amm_price": 1.3842673535963008,
+    "external_price": 1.3846702894007807,
+    "trade_size": 3787,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 238,
+    "timestamp": 1745958412,
+    "amm_price": 1.3814522051192466,
+    "external_price": 1.3816578360539131,
+    "trade_size": 2251,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 239,
+    "timestamp": 1745958412,
+    "amm_price": 1.3568077763038555,
+    "external_price": 1.3567231041362078,
+    "trade_size": 168,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 240,
+    "timestamp": 1745958413,
+    "amm_price": 1.372498103506054,
+    "external_price": 1.3727973873077004,
+    "trade_size": 2725,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 241,
+    "timestamp": 1745958413,
+    "amm_price": 1.399745803322969,
+    "external_price": 1.3995751931987532,
+    "trade_size": 3614,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 242,
+    "timestamp": 1745958413,
+    "amm_price": 1.4093147255875391,
+    "external_price": 1.4092975179237028,
+    "trade_size": 647,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 243,
+    "timestamp": 1745958413,
+    "amm_price": 1.4086839090792282,
+    "external_price": 1.4083840644397905,
+    "trade_size": 4339,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 244,
+    "timestamp": 1745958414,
+    "amm_price": 1.4160093806529537,
+    "external_price": 1.4162613285353567,
+    "trade_size": 2349,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 245,
+    "timestamp": 1745958415,
+    "amm_price": 1.4415629789205173,
+    "external_price": 1.4418400014668216,
+    "trade_size": 2005,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 246,
+    "timestamp": 1745958416,
+    "amm_price": 1.4214592488876305,
+    "external_price": 1.4217944127640816,
+    "trade_size": 4019,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 247,
+    "timestamp": 1745958417,
+    "amm_price": 1.4379083603496003,
+    "external_price": 1.438302712755139,
+    "trade_size": 3511,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 248,
+    "timestamp": 1745958417,
+    "amm_price": 1.4463075889852728,
+    "external_price": 1.4461881607813498,
+    "trade_size": 2029,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 249,
+    "timestamp": 1745958417,
+    "amm_price": 1.456539829030946,
+    "external_price": 1.4562791309701337,
+    "trade_size": 4137,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 250,
+    "timestamp": 1745958418,
+    "amm_price": 1.4618336148620368,
+    "external_price": 1.462074226449211,
+    "trade_size": 2182,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 251,
+    "timestamp": 1745958418,
+    "amm_price": 1.485569619645713,
+    "external_price": 1.4853450415165745,
+    "trade_size": 4131,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 252,
+    "timestamp": 1745958419,
+    "amm_price": 1.456482129564176,
+    "external_price": 1.4568239441623694,
+    "trade_size": 4190,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 253,
+    "timestamp": 1745958419,
+    "amm_price": 1.4594594237262881,
+    "external_price": 1.4593524319914812,
+    "trade_size": 1618,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 254,
+    "timestamp": 1745958419,
+    "amm_price": 1.4848470891536676,
+    "external_price": 1.484803318248703,
+    "trade_size": 1651,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 255,
+    "timestamp": 1745958420,
+    "amm_price": 1.4790085263136248,
+    "external_price": 1.479365896226194,
+    "trade_size": 3612,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 256,
+    "timestamp": 1745958420,
+    "amm_price": 1.4774090288195534,
+    "external_price": 1.4770843175219985,
+    "trade_size": 4556,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 257,
+    "timestamp": 1745958421,
+    "amm_price": 1.4685891083960916,
+    "external_price": 1.4687199384818184,
+    "trade_size": 1491,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 258,
+    "timestamp": 1745958421,
+    "amm_price": 1.4513708959896183,
+    "external_price": 1.4512803628888677,
+    "trade_size": 551,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 259,
+    "timestamp": 1745958421,
+    "amm_price": 1.45615643475077,
+    "external_price": 1.4560871959051147,
+    "trade_size": 1163,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 260,
+    "timestamp": 1745958422,
+    "amm_price": 1.436438315622196,
+    "external_price": 1.436489805414425,
+    "trade_size": 1070,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 261,
+    "timestamp": 1745958423,
+    "amm_price": 1.4219573241557601,
+    "external_price": 1.422242634215782,
+    "trade_size": 3326,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 262,
+    "timestamp": 1745958423,
+    "amm_price": 1.4094918304768982,
+    "external_price": 1.4092295914053754,
+    "trade_size": 3274,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 263,
+    "timestamp": 1745958424,
+    "amm_price": 1.4097934600571795,
+    "external_price": 1.4099750036191765,
+    "trade_size": 1838,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 264,
+    "timestamp": 1745958425,
+    "amm_price": 1.4075669129135981,
+    "external_price": 1.4079661428657166,
+    "trade_size": 4248,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 265,
+    "timestamp": 1745958426,
+    "amm_price": 1.3972304530138195,
+    "external_price": 1.397642308167927,
+    "trade_size": 4682,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 266,
+    "timestamp": 1745958426,
+    "amm_price": 1.3862512940404716,
+    "external_price": 1.3860166076705416,
+    "trade_size": 2952,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 267,
+    "timestamp": 1745958427,
+    "amm_price": 1.3856641530312181,
+    "external_price": 1.3860181268974578,
+    "trade_size": 3795,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 268,
+    "timestamp": 1745958427,
+    "amm_price": 1.4079579004262635,
+    "external_price": 1.4076895578678228,
+    "trade_size": 4839,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 269,
+    "timestamp": 1745958427,
+    "amm_price": 1.3855844444599368,
+    "external_price": 1.3853961863312698,
+    "trade_size": 1778,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 270,
+    "timestamp": 1745958427,
+    "amm_price": 1.39539511229701,
+    "external_price": 1.395292915279341,
+    "trade_size": 1877,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 271,
+    "timestamp": 1745958427,
+    "amm_price": 1.4147952248437017,
+    "external_price": 1.4147809600466967,
+    "trade_size": 1021,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 272,
+    "timestamp": 1745958428,
+    "amm_price": 1.3900250914819952,
+    "external_price": 1.3901389599745377,
+    "trade_size": 1922,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 273,
+    "timestamp": 1745958428,
+    "amm_price": 1.3694063720238536,
+    "external_price": 1.3692491255192056,
+    "trade_size": 1403,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 274,
+    "timestamp": 1745958428,
+    "amm_price": 1.3520671374449913,
+    "external_price": 1.3517191686854637,
+    "trade_size": 4466,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 275,
+    "timestamp": 1745958428,
+    "amm_price": 1.338119932339963,
+    "external_price": 1.3378331587490413,
+    "trade_size": 3682,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 276,
+    "timestamp": 1745958429,
+    "amm_price": 1.3153473901130968,
+    "external_price": 1.3153475384144404,
+    "trade_size": 749,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 277,
+    "timestamp": 1745958429,
+    "amm_price": 1.3184090916792521,
+    "external_price": 1.318312648567295,
+    "trade_size": 1551,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 278,
+    "timestamp": 1745958429,
+    "amm_price": 1.3087202154911775,
+    "external_price": 1.3083924208800024,
+    "trade_size": 4560,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 279,
+    "timestamp": 1745958430,
+    "amm_price": 1.3078679408854412,
+    "external_price": 1.3080716743160294,
+    "trade_size": 2359,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 280,
+    "timestamp": 1745958430,
+    "amm_price": 1.285856519044127,
+    "external_price": 1.28575041020668,
+    "trade_size": 612,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 281,
+    "timestamp": 1745958430,
+    "amm_price": 1.3054384135389543,
+    "external_price": 1.305484396764153,
+    "trade_size": 192,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 282,
+    "timestamp": 1745958431,
+    "amm_price": 1.2926995362392886,
+    "external_price": 1.2930728659784372,
+    "trade_size": 4878,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 283,
+    "timestamp": 1745958431,
+    "amm_price": 1.287357361255948,
+    "external_price": 1.2871451201746495,
+    "trade_size": 2970,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 284,
+    "timestamp": 1745958432,
+    "amm_price": 1.2930740393549545,
+    "external_price": 1.2931494076179653,
+    "trade_size": 667,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 285,
+    "timestamp": 1745958432,
+    "amm_price": 1.2904968596579112,
+    "external_price": 1.2903031695966523,
+    "trade_size": 2801,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 286,
+    "timestamp": 1745958433,
+    "amm_price": 1.311058797312627,
+    "external_price": 1.3114728456268228,
+    "trade_size": 4156,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 287,
+    "timestamp": 1745958433,
+    "amm_price": 1.3174100289228186,
+    "external_price": 1.3173882473988805,
+    "trade_size": 595,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 288,
+    "timestamp": 1745958433,
+    "amm_price": 1.319130767958628,
+    "external_price": 1.3189338962936696,
+    "trade_size": 3005,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 289,
+    "timestamp": 1745958433,
+    "amm_price": 1.3453520659749223,
+    "external_price": 1.3451208375333563,
+    "trade_size": 4560,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 290,
+    "timestamp": 1745958434,
+    "amm_price": 1.3468367116808329,
+    "external_price": 1.3471224244698452,
+    "trade_size": 3110,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 291,
+    "timestamp": 1745958435,
+    "amm_price": 1.3451725179028695,
+    "external_price": 1.3454830593553748,
+    "trade_size": 3503,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 292,
+    "timestamp": 1745958436,
+    "amm_price": 1.3498573588926401,
+    "external_price": 1.3499688412723525,
+    "trade_size": 1051,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 293,
+    "timestamp": 1745958436,
+    "amm_price": 1.3461975861040965,
+    "external_price": 1.3460494939311833,
+    "trade_size": 2009,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 294,
+    "timestamp": 1745958437,
+    "amm_price": 1.3204542036761795,
+    "external_price": 1.3204835366421315,
+    "trade_size": 1162,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 295,
+    "timestamp": 1745958437,
+    "amm_price": 1.325704808793857,
+    "external_price": 1.3255178127807827,
+    "trade_size": 3001,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 296,
+    "timestamp": 1745958437,
+    "amm_price": 1.3264760888934226,
+    "external_price": 1.3264413159905517,
+    "trade_size": 539,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 297,
+    "timestamp": 1745958437,
+    "amm_price": 1.3491981317562682,
+    "external_price": 1.348966884983185,
+    "trade_size": 4401,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 298,
+    "timestamp": 1745958438,
+    "amm_price": 1.3560960848137729,
+    "external_price": 1.3563180414187694,
+    "trade_size": 2188,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 299,
+    "timestamp": 1745958439,
+    "amm_price": 1.3757022946883226,
+    "external_price": 1.3761754439422078,
+    "trade_size": 4567,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 300,
+    "timestamp": 1745958439,
+    "amm_price": 1.4030403109222933,
+    "external_price": 1.4028712347558596,
+    "trade_size": 3591,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 301,
+    "timestamp": 1745958439,
+    "amm_price": 1.397095514204161,
+    "external_price": 1.396996077855094,
+    "trade_size": 1167,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 302,
+    "timestamp": 1745958440,
+    "amm_price": 1.3914944898825183,
+    "external_price": 1.3915304192300213,
+    "trade_size": 537,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 303,
+    "timestamp": 1745958440,
+    "amm_price": 1.3686803026334837,
+    "external_price": 1.3684663984663197,
+    "trade_size": 2155,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 304,
+    "timestamp": 1745958441,
+    "amm_price": 1.3779874464853645,
+    "external_price": 1.378047476950227,
+    "trade_size": 333,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 305,
+    "timestamp": 1745958441,
+    "amm_price": 1.3547614295186152,
+    "external_price": 1.3546548469514352,
+    "trade_size": 550,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 306,
+    "timestamp": 1745958442,
+    "amm_price": 1.3565810250272916,
+    "external_price": 1.3566382438882971,
+    "trade_size": 550,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 307,
+    "timestamp": 1745958443,
+    "amm_price": 1.3648825609459334,
+    "external_price": 1.3652152863643454,
+    "trade_size": 3362,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 308,
+    "timestamp": 1745958444,
+    "amm_price": 1.352883786987711,
+    "external_price": 1.3532053025724553,
+    "trade_size": 3925,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 309,
+    "timestamp": 1745958445,
+    "amm_price": 1.3289642371351569,
+    "external_price": 1.3292739172226224,
+    "trade_size": 4277,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 310,
+    "timestamp": 1745958445,
+    "amm_price": 1.3195475620742503,
+    "external_price": 1.3193527862312626,
+    "trade_size": 2487,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 311,
+    "timestamp": 1745958446,
+    "amm_price": 1.3382656149792982,
+    "external_price": 1.338351612319911,
+    "trade_size": 323,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 312,
+    "timestamp": 1745958447,
+    "amm_price": 1.3243760154662385,
+    "external_price": 1.324718538126821,
+    "trade_size": 4367,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 313,
+    "timestamp": 1745958448,
+    "amm_price": 1.3473865225369754,
+    "external_price": 1.347842356885656,
+    "trade_size": 4399,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 314,
+    "timestamp": 1745958448,
+    "amm_price": 1.3461939895916963,
+    "external_price": 1.3461103847248017,
+    "trade_size": 1162,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 315,
+    "timestamp": 1745958449,
+    "amm_price": 1.3230068021694399,
+    "external_price": 1.3232587761520869,
+    "trade_size": 3604,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 316,
+    "timestamp": 1745958449,
+    "amm_price": 1.3098989257486915,
+    "external_price": 1.3096309738603213,
+    "trade_size": 3467,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 317,
+    "timestamp": 1745958449,
+    "amm_price": 1.2963378587486103,
+    "external_price": 1.2961197641455209,
+    "trade_size": 2689,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 318,
+    "timestamp": 1745958450,
+    "amm_price": 1.3090694374568297,
+    "external_price": 1.3091544619786752,
+    "trade_size": 527,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 319,
+    "timestamp": 1745958450,
+    "amm_price": 1.3258655874635925,
+    "external_price": 1.325701501493655,
+    "trade_size": 3159,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 320,
+    "timestamp": 1745958451,
+    "amm_price": 1.3442112710456968,
+    "external_price": 1.3446949912267872,
+    "trade_size": 4905,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 321,
+    "timestamp": 1745958451,
+    "amm_price": 1.3644879320387728,
+    "external_price": 1.3643545133228114,
+    "trade_size": 2809,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 322,
+    "timestamp": 1745958451,
+    "amm_price": 1.3881040653259762,
+    "external_price": 1.388080349901458,
+    "trade_size": 1346,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 323,
+    "timestamp": 1745958451,
+    "amm_price": 1.3897366553492176,
+    "external_price": 1.3897332243087397,
+    "trade_size": 118,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 324,
+    "timestamp": 1745958452,
+    "amm_price": 1.3741426481986085,
+    "external_price": 1.374145218111832,
+    "trade_size": 508,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 325,
+    "timestamp": 1745958453,
+    "amm_price": 1.3798621851196233,
+    "external_price": 1.380133651217489,
+    "trade_size": 2708,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 326,
+    "timestamp": 1745958453,
+    "amm_price": 1.3977238275573791,
+    "external_price": 1.397623750774429,
+    "trade_size": 2188,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 327,
+    "timestamp": 1745958454,
+    "amm_price": 1.3715940840986103,
+    "external_price": 1.371603585599111,
+    "trade_size": 903,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 328,
+    "timestamp": 1745958454,
+    "amm_price": 1.3825652413024723,
+    "external_price": 1.3825695353632137,
+    "trade_size": 408,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 329,
+    "timestamp": 1745958455,
+    "amm_price": 1.383789385159549,
+    "external_price": 1.3842051956323826,
+    "trade_size": 4443,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 330,
+    "timestamp": 1745958455,
+    "amm_price": 1.4065347496815006,
+    "external_price": 1.4064478274340309,
+    "trade_size": 2200,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 331,
+    "timestamp": 1745958455,
+    "amm_price": 1.4081226082191811,
+    "external_price": 1.4080293221091635,
+    "trade_size": 1392,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 332,
+    "timestamp": 1745958456,
+    "amm_price": 1.4184037643054688,
+    "external_price": 1.4188544395839695,
+    "trade_size": 4387,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 333,
+    "timestamp": 1745958456,
+    "amm_price": 1.4211788279536135,
+    "external_price": 1.420919785246997,
+    "trade_size": 3852,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 334,
+    "timestamp": 1745958456,
+    "amm_price": 1.403645912998283,
+    "external_price": 1.4034689565866114,
+    "trade_size": 1803,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 335,
+    "timestamp": 1745958456,
+    "amm_price": 1.3988145758656279,
+    "external_price": 1.3986797039712386,
+    "trade_size": 1727,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 336,
+    "timestamp": 1745958457,
+    "amm_price": 1.4212266088449972,
+    "external_price": 1.4213448434844733,
+    "trade_size": 508,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 337,
+    "timestamp": 1745958458,
+    "amm_price": 1.4173419555458941,
+    "external_price": 1.4173504293520653,
+    "trade_size": 199,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 338,
+    "timestamp": 1745958459,
+    "amm_price": 1.3920512818799242,
+    "external_price": 1.3920432136018739,
+    "trade_size": 680,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 339,
+    "timestamp": 1745958459,
+    "amm_price": 1.3960581890289179,
+    "external_price": 1.3959246794460296,
+    "trade_size": 2084,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 340,
+    "timestamp": 1745958460,
+    "amm_price": 1.3897330250013922,
+    "external_price": 1.3900157854671156,
+    "trade_size": 3170,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 341,
+    "timestamp": 1745958461,
+    "amm_price": 1.3838796063482028,
+    "external_price": 1.3838942570363937,
+    "trade_size": 330,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 342,
+    "timestamp": 1745958461,
+    "amm_price": 1.3884098535819756,
+    "external_price": 1.388173691171487,
+    "trade_size": 3631,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 343,
+    "timestamp": 1745958462,
+    "amm_price": 1.3768300447697694,
+    "external_price": 1.3771011045445625,
+    "trade_size": 3248,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 344,
+    "timestamp": 1745958463,
+    "amm_price": 1.3586574251186634,
+    "external_price": 1.3589104034513682,
+    "trade_size": 3317,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 345,
+    "timestamp": 1745958463,
+    "amm_price": 1.3803277310441877,
+    "external_price": 1.3803134931766645,
+    "trade_size": 1131,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 346,
+    "timestamp": 1745958463,
+    "amm_price": 1.402947273478116,
+    "external_price": 1.4029642310138624,
+    "trade_size": 723,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 347,
+    "timestamp": 1745958463,
+    "amm_price": 1.4033714404142472,
+    "external_price": 1.4031279357062578,
+    "trade_size": 3546,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 348,
+    "timestamp": 1745958464,
+    "amm_price": 1.409656852315843,
+    "external_price": 1.4101243034566056,
+    "trade_size": 4737,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 349,
+    "timestamp": 1745958464,
+    "amm_price": 1.4065936338619789,
+    "external_price": 1.406467086836473,
+    "trade_size": 1676,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 350,
+    "timestamp": 1745958465,
+    "amm_price": 1.403845327396173,
+    "external_price": 1.404227838676842,
+    "trade_size": 4097,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 351,
+    "timestamp": 1745958465,
+    "amm_price": 1.4275903259747302,
+    "external_price": 1.4274362146198538,
+    "trade_size": 3190,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 352,
+    "timestamp": 1745958465,
+    "amm_price": 1.4184902549204634,
+    "external_price": 1.41816216662925,
+    "trade_size": 4393,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 353,
+    "timestamp": 1745958465,
+    "amm_price": 1.4050942978441414,
+    "external_price": 1.4048858401960582,
+    "trade_size": 2440,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 354,
+    "timestamp": 1745958465,
+    "amm_price": 1.4227487377620245,
+    "external_price": 1.4225320712988825,
+    "trade_size": 3851,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 355,
+    "timestamp": 1745958465,
+    "amm_price": 1.4452437073818099,
+    "external_price": 1.4450132112694232,
+    "trade_size": 4225,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 356,
+    "timestamp": 1745958466,
+    "amm_price": 1.4392610790023326,
+    "external_price": 1.4395962034889909,
+    "trade_size": 3538,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 357,
+    "timestamp": 1745958466,
+    "amm_price": 1.4260332137157659,
+    "external_price": 1.42597286679234,
+    "trade_size": 294,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 358,
+    "timestamp": 1745958467,
+    "amm_price": 1.4095813729786841,
+    "external_price": 1.4097991860079755,
+    "trade_size": 2715,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 359,
+    "timestamp": 1745958468,
+    "amm_price": 1.3831081493147013,
+    "external_price": 1.3830412326957315,
+    "trade_size": 119,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 360,
+    "timestamp": 1745958469,
+    "amm_price": 1.3868387436974403,
+    "external_price": 1.3871138318744491,
+    "trade_size": 2788,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 361,
+    "timestamp": 1745958469,
+    "amm_price": 1.370927195810969,
+    "external_price": 1.3707196059364108,
+    "trade_size": 2352,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 362,
+    "timestamp": 1745958469,
+    "amm_price": 1.355528720192059,
+    "external_price": 1.3552268968952472,
+    "trade_size": 3826,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 363,
+    "timestamp": 1745958470,
+    "amm_price": 1.3592172089394337,
+    "external_price": 1.3596723831773152,
+    "trade_size": 4952,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 364,
+    "timestamp": 1745958470,
+    "amm_price": 1.362889839082655,
+    "external_price": 1.3626250373342912,
+    "trade_size": 4065,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 365,
+    "timestamp": 1745958470,
+    "amm_price": 1.3808891305486097,
+    "external_price": 1.380609660149799,
+    "trade_size": 4873,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 366,
+    "timestamp": 1745958471,
+    "amm_price": 1.4020461896922685,
+    "external_price": 1.4022473203330725,
+    "trade_size": 1422,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 367,
+    "timestamp": 1745958471,
+    "amm_price": 1.4198335043011123,
+    "external_price": 1.419644957967987,
+    "trade_size": 3448,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 368,
+    "timestamp": 1745958472,
+    "amm_price": 1.3992152736790013,
+    "external_price": 1.3992822735972614,
+    "trade_size": 1298,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 369,
+    "timestamp": 1745958472,
+    "amm_price": 1.3897322897290796,
+    "external_price": 1.3896552233876716,
+    "trade_size": 697,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 370,
+    "timestamp": 1745958473,
+    "amm_price": 1.384130943628505,
+    "external_price": 1.384255488084006,
+    "trade_size": 1466,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 371,
+    "timestamp": 1745958473,
+    "amm_price": 1.4150491356471957,
+    "external_price": 1.4148242745918886,
+    "trade_size": 4547,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 372,
+    "timestamp": 1745958473,
+    "amm_price": 1.4044721288705546,
+    "external_price": 1.4042845097011747,
+    "trade_size": 2252,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 373,
+    "timestamp": 1745958473,
+    "amm_price": 1.420966314391641,
+    "external_price": 1.4208216885406746,
+    "trade_size": 2753,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 374,
+    "timestamp": 1745958474,
+    "amm_price": 1.4272001875757783,
+    "external_price": 1.4275127905654101,
+    "trade_size": 2987,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 375,
+    "timestamp": 1745958474,
+    "amm_price": 1.4246693630357599,
+    "external_price": 1.4244765682225435,
+    "trade_size": 2648,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 376,
+    "timestamp": 1745958475,
+    "amm_price": 1.4320336974715897,
+    "external_price": 1.4323033718254605,
+    "trade_size": 2491,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 377,
+    "timestamp": 1745958475,
+    "amm_price": 1.4168765287846645,
+    "external_price": 1.4166359421322694,
+    "trade_size": 2830,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 378,
+    "timestamp": 1745958476,
+    "amm_price": 1.3978486432604882,
+    "external_price": 1.3980192852582167,
+    "trade_size": 2328,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 379,
+    "timestamp": 1745958476,
+    "amm_price": 1.4075143897440354,
+    "external_price": 1.407339378575186,
+    "trade_size": 2920,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 380,
+    "timestamp": 1745958477,
+    "amm_price": 1.4255156785631076,
+    "external_price": 1.4256329731742334,
+    "trade_size": 629,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 381,
+    "timestamp": 1745958477,
+    "amm_price": 1.417812683358178,
+    "external_price": 1.4176517579978618,
+    "trade_size": 1972,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 382,
+    "timestamp": 1745958477,
+    "amm_price": 1.4310308739455913,
+    "external_price": 1.4308754382802074,
+    "trade_size": 2761,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 383,
+    "timestamp": 1745958478,
+    "amm_price": 1.454703174653513,
+    "external_price": 1.4551013225157703,
+    "trade_size": 3277,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 384,
+    "timestamp": 1745958479,
+    "amm_price": 1.4279094121020048,
+    "external_price": 1.4282669176565626,
+    "trade_size": 4420,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 385,
+    "timestamp": 1745958479,
+    "amm_price": 1.4466147527451654,
+    "external_price": 1.4464116111652714,
+    "trade_size": 3665,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 386,
+    "timestamp": 1745958480,
+    "amm_price": 1.448042730719066,
+    "external_price": 1.448084882292407,
+    "trade_size": 364,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 387,
+    "timestamp": 1745958480,
+    "amm_price": 1.475819162863266,
+    "external_price": 1.4756227482940232,
+    "trade_size": 3908,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 388,
+    "timestamp": 1745958480,
+    "amm_price": 1.4596680285717047,
+    "external_price": 1.4595464669878635,
+    "trade_size": 1032,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 389,
+    "timestamp": 1745958480,
+    "amm_price": 1.4422371534247411,
+    "external_price": 1.4418712421571762,
+    "trade_size": 4577,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 390,
+    "timestamp": 1745958480,
+    "amm_price": 1.4681950473356498,
+    "external_price": 1.4681148080704294,
+    "trade_size": 2193,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 391,
+    "timestamp": 1745958480,
+    "amm_price": 1.4651727103917498,
+    "external_price": 1.4649453242084536,
+    "trade_size": 3089,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 392,
+    "timestamp": 1745958481,
+    "amm_price": 1.46489702229195,
+    "external_price": 1.4652145521772577,
+    "trade_size": 3104,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 393,
+    "timestamp": 1745958482,
+    "amm_price": 1.4775124220013713,
+    "external_price": 1.4779468748531608,
+    "trade_size": 3884,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 394,
+    "timestamp": 1745958482,
+    "amm_price": 1.5080797027002566,
+    "external_price": 1.5078750193187591,
+    "trade_size": 4097,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 395,
+    "timestamp": 1745958482,
+    "amm_price": 1.5029001043414671,
+    "external_price": 1.502743857849077,
+    "trade_size": 1950,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 396,
+    "timestamp": 1745958483,
+    "amm_price": 1.4875922833779736,
+    "external_price": 1.488037961995512,
+    "trade_size": 4728,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 397,
+    "timestamp": 1745958484,
+    "amm_price": 1.464847155890186,
+    "external_price": 1.4650124990251234,
+    "trade_size": 2220,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 398,
+    "timestamp": 1745958485,
+    "amm_price": 1.4894615772068123,
+    "external_price": 1.489699479044842,
+    "trade_size": 1553,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 399,
+    "timestamp": 1745958485,
+    "amm_price": 1.523958209467081,
+    "external_price": 1.5237149884830505,
+    "trade_size": 4783,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 400,
+    "timestamp": 1745958486,
+    "amm_price": 1.5257452678422745,
+    "external_price": 1.5260003938234281,
+    "trade_size": 2273,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 401,
+    "timestamp": 1745958486,
+    "amm_price": 1.5532486855708327,
+    "external_price": 1.5532713187039866,
+    "trade_size": 809,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 402,
+    "timestamp": 1745958487,
+    "amm_price": 1.5614964205380355,
+    "external_price": 1.5616189986289237,
+    "trade_size": 848,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 403,
+    "timestamp": 1745958487,
+    "amm_price": 1.5877316816180171,
+    "external_price": 1.5875293439778884,
+    "trade_size": 3783,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 404,
+    "timestamp": 1745958488,
+    "amm_price": 1.6116249871695008,
+    "external_price": 1.6117331779975934,
+    "trade_size": 299,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 405,
+    "timestamp": 1745958488,
+    "amm_price": 1.6133289534088728,
+    "external_price": 1.6130688253070693,
+    "trade_size": 3575,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 406,
+    "timestamp": 1745958488,
+    "amm_price": 1.5975415610724744,
+    "external_price": 1.5973116083030365,
+    "trade_size": 2482,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 407,
+    "timestamp": 1745958488,
+    "amm_price": 1.6048872702054506,
+    "external_price": 1.6048666494090957,
+    "trade_size": 563,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 408,
+    "timestamp": 1745958489,
+    "amm_price": 1.5866324051522016,
+    "external_price": 1.5870160230503598,
+    "trade_size": 3787,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 409,
+    "timestamp": 1745958490,
+    "amm_price": 1.5853270628587102,
+    "external_price": 1.5857947720049173,
+    "trade_size": 4139,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 410,
+    "timestamp": 1745958491,
+    "amm_price": 1.5664846173840588,
+    "external_price": 1.5666241957713254,
+    "trade_size": 1682,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 411,
+    "timestamp": 1745958492,
+    "amm_price": 1.5458578759023358,
+    "external_price": 1.546233399969809,
+    "trade_size": 3926,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 412,
+    "timestamp": 1745958493,
+    "amm_price": 1.5471017768105098,
+    "external_price": 1.5476384935391692,
+    "trade_size": 4900,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 413,
+    "timestamp": 1745958493,
+    "amm_price": 1.5690583203622772,
+    "external_price": 1.5687812968207115,
+    "trade_size": 4680,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 414,
+    "timestamp": 1745958493,
+    "amm_price": 1.5555702994062623,
+    "external_price": 1.555212983771297,
+    "trade_size": 4424,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 415,
+    "timestamp": 1745958494,
+    "amm_price": 1.5663961510105042,
+    "external_price": 1.5669544155536623,
+    "trade_size": 4766,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 416,
+    "timestamp": 1745958495,
+    "amm_price": 1.5599184933219867,
+    "external_price": 1.5600157610356464,
+    "trade_size": 1007,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 417,
+    "timestamp": 1745958496,
+    "amm_price": 1.5546870036908946,
+    "external_price": 1.555096325729188,
+    "trade_size": 3815,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 418,
+    "timestamp": 1745958497,
+    "amm_price": 1.5522302239630366,
+    "external_price": 1.5527168952000705,
+    "trade_size": 4488,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 419,
+    "timestamp": 1745958498,
+    "amm_price": 1.5541880142884994,
+    "external_price": 1.5544432188588109,
+    "trade_size": 2206,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 420,
+    "timestamp": 1745958498,
+    "amm_price": 1.561469050597026,
+    "external_price": 1.5612500892003613,
+    "trade_size": 3283,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 421,
+    "timestamp": 1745958499,
+    "amm_price": 1.5315985623913435,
+    "external_price": 1.5316073181167482,
+    "trade_size": 856,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 422,
+    "timestamp": 1745958500,
+    "amm_price": 1.543331115842327,
+    "external_price": 1.54354891153055,
+    "trade_size": 1630,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 423,
+    "timestamp": 1745958501,
+    "amm_price": 1.5128394780249743,
+    "external_price": 1.5128888265994278,
+    "trade_size": 1254,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 424,
+    "timestamp": 1745958501,
+    "amm_price": 1.5401778767586072,
+    "external_price": 1.5401382617788217,
+    "trade_size": 1644,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 425,
+    "timestamp": 1745958501,
+    "amm_price": 1.550330269693895,
+    "external_price": 1.5500189008332705,
+    "trade_size": 4722,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 426,
+    "timestamp": 1745958501,
+    "amm_price": 1.568911918762325,
+    "external_price": 1.5689348552774547,
+    "trade_size": 441,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 427,
+    "timestamp": 1745958502,
+    "amm_price": 1.5886020332174695,
+    "external_price": 1.5889964140123678,
+    "trade_size": 2926,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 428,
+    "timestamp": 1745958502,
+    "amm_price": 1.586944617201231,
+    "external_price": 1.58682085760134,
+    "trade_size": 1593,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 429,
+    "timestamp": 1745958503,
+    "amm_price": 1.5623259029241092,
+    "external_price": 1.5627291004615609,
+    "trade_size": 4220,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 430,
+    "timestamp": 1745958504,
+    "amm_price": 1.5539597032049077,
+    "external_price": 1.5540205893057129,
+    "trade_size": 743,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 431,
+    "timestamp": 1745958505,
+    "amm_price": 1.560731772996307,
+    "external_price": 1.5607597377699236,
+    "trade_size": 65,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 432,
+    "timestamp": 1745958505,
+    "amm_price": 1.5350044348234675,
+    "external_price": 1.5348085763278414,
+    "trade_size": 1655,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 433,
+    "timestamp": 1745958505,
+    "amm_price": 1.5422625891488198,
+    "external_price": 1.5419737438221215,
+    "trade_size": 4295,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 434,
+    "timestamp": 1745958506,
+    "amm_price": 1.5373963556827037,
+    "external_price": 1.5378804950381098,
+    "trade_size": 4594,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 435,
+    "timestamp": 1745958507,
+    "amm_price": 1.5583129048209343,
+    "external_price": 1.5586560784490746,
+    "trade_size": 2507,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 436,
+    "timestamp": 1745958508,
+    "amm_price": 1.5463266320952316,
+    "external_price": 1.5464028638724232,
+    "trade_size": 977,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 437,
+    "timestamp": 1745958508,
+    "amm_price": 1.5465252714443385,
+    "external_price": 1.546424164352458,
+    "trade_size": 1378,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 438,
+    "timestamp": 1745958508,
+    "amm_price": 1.5430791219488837,
+    "external_price": 1.5429746987115727,
+    "trade_size": 1278,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 439,
+    "timestamp": 1745958508,
+    "amm_price": 1.5423637310867258,
+    "external_price": 1.542229866314452,
+    "trade_size": 1794,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 440,
+    "timestamp": 1745958508,
+    "amm_price": 1.522282055088915,
+    "external_price": 1.5222194464569896,
+    "trade_size": 38,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 441,
+    "timestamp": 1745958509,
+    "amm_price": 1.4977298481055952,
+    "external_price": 1.4977507377488044,
+    "trade_size": 854,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 442,
+    "timestamp": 1745958510,
+    "amm_price": 1.4909604098736062,
+    "external_price": 1.49097286191364,
+    "trade_size": 300,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 443,
+    "timestamp": 1745958510,
+    "amm_price": 1.4794166688362866,
+    "external_price": 1.4791175381033745,
+    "trade_size": 3767,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 444,
+    "timestamp": 1745958510,
+    "amm_price": 1.4783434039468197,
+    "external_price": 1.4782067705683477,
+    "trade_size": 1858,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 445,
+    "timestamp": 1745958510,
+    "amm_price": 1.4556281948504393,
+    "external_price": 1.455314336298923,
+    "trade_size": 3557,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 446,
+    "timestamp": 1745958510,
+    "amm_price": 1.4620194492379455,
+    "external_price": 1.4617321349363501,
+    "trade_size": 4360,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 447,
+    "timestamp": 1745958511,
+    "amm_price": 1.4513280361997802,
+    "external_price": 1.4513191214309038,
+    "trade_size": 220,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 448,
+    "timestamp": 1745958511,
+    "amm_price": 1.4400207786856078,
+    "external_price": 1.4398493901868044,
+    "trade_size": 1957,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 449,
+    "timestamp": 1745958512,
+    "amm_price": 1.4505025966249738,
+    "external_price": 1.4506910499018897,
+    "trade_size": 1535,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 450,
+    "timestamp": 1745958512,
+    "amm_price": 1.4766593031878965,
+    "external_price": 1.476733477000258,
+    "trade_size": 67,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 451,
+    "timestamp": 1745958512,
+    "amm_price": 1.490351865017083,
+    "external_price": 1.490167560028444,
+    "trade_size": 3133,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 452,
+    "timestamp": 1745958512,
+    "amm_price": 1.4774528774648308,
+    "external_price": 1.4771190976089517,
+    "trade_size": 4225,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 453,
+    "timestamp": 1745958512,
+    "amm_price": 1.4697467934984885,
+    "external_price": 1.469616413026519,
+    "trade_size": 1501,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 454,
+    "timestamp": 1745958512,
+    "amm_price": 1.5017533277871613,
+    "external_price": 1.5015072313613027,
+    "trade_size": 4758,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 455,
+    "timestamp": 1745958512,
+    "amm_price": 1.5078057555271434,
+    "external_price": 1.5076185608555734,
+    "trade_size": 2842,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 456,
+    "timestamp": 1745958513,
+    "amm_price": 1.4788143515205567,
+    "external_price": 1.479243866007649,
+    "trade_size": 4979,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 457,
+    "timestamp": 1745958513,
+    "amm_price": 1.4669250157507738,
+    "external_price": 1.4666159308847397,
+    "trade_size": 3917,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 458,
+    "timestamp": 1745958513,
+    "amm_price": 1.4901539149684602,
+    "external_price": 1.4899289455935387,
+    "trade_size": 4109,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 459,
+    "timestamp": 1745958513,
+    "amm_price": 1.4732145105943255,
+    "external_price": 1.4729862950067407,
+    "trade_size": 2519,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 460,
+    "timestamp": 1745958514,
+    "amm_price": 1.5005800892271843,
+    "external_price": 1.5008726161499488,
+    "trade_size": 1984,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 461,
+    "timestamp": 1745958515,
+    "amm_price": 1.4730257194536778,
+    "external_price": 1.4734213923901402,
+    "trade_size": 4623,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 462,
+    "timestamp": 1745958516,
+    "amm_price": 1.4742466281015132,
+    "external_price": 1.474728814639611,
+    "trade_size": 4713,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 463,
+    "timestamp": 1745958516,
+    "amm_price": 1.459238712576935,
+    "external_price": 1.4588521291931866,
+    "trade_size": 4959,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 464,
+    "timestamp": 1745958516,
+    "amm_price": 1.4670716678928244,
+    "external_price": 1.4670143955275465,
+    "trade_size": 1118,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 465,
+    "timestamp": 1745958517,
+    "amm_price": 1.455994961345853,
+    "external_price": 1.4564354540323212,
+    "trade_size": 4714,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 466,
+    "timestamp": 1745958518,
+    "amm_price": 1.4324753128326644,
+    "external_price": 1.4328647282657914,
+    "trade_size": 4644,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 467,
+    "timestamp": 1745958518,
+    "amm_price": 1.424610071897076,
+    "external_price": 1.424360560965694,
+    "trade_size": 3259,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 468,
+    "timestamp": 1745958518,
+    "amm_price": 1.423843682524535,
+    "external_price": 1.4236819806939969,
+    "trade_size": 2270,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 469,
+    "timestamp": 1745958518,
+    "amm_price": 1.4145029677719998,
+    "external_price": 1.414423706023954,
+    "trade_size": 728,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 470,
+    "timestamp": 1745958518,
+    "amm_price": 1.3995910447075552,
+    "external_price": 1.399222777954519,
+    "trade_size": 4796,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 471,
+    "timestamp": 1745958519,
+    "amm_price": 1.3789921331827835,
+    "external_price": 1.3791250397968602,
+    "trade_size": 2021,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 472,
+    "timestamp": 1745958519,
+    "amm_price": 1.3907365070385243,
+    "external_price": 1.3904505820206337,
+    "trade_size": 4685,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 473,
+    "timestamp": 1745958520,
+    "amm_price": 1.3628977596219647,
+    "external_price": 1.3628771157406172,
+    "trade_size": 648,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 474,
+    "timestamp": 1745958521,
+    "amm_price": 1.3722462767683243,
+    "external_price": 1.3724934028625002,
+    "trade_size": 2348,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 475,
+    "timestamp": 1745958521,
+    "amm_price": 1.3954422180054151,
+    "external_price": 1.395408819059594,
+    "trade_size": 1462,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 476,
+    "timestamp": 1745958522,
+    "amm_price": 1.3894859565448487,
+    "external_price": 1.3896146704407308,
+    "trade_size": 1512,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 477,
+    "timestamp": 1745958523,
+    "amm_price": 1.3825141529937637,
+    "external_price": 1.38293529219175,
+    "trade_size": 4762,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 478,
+    "timestamp": 1745958524,
+    "amm_price": 1.4095354997834757,
+    "external_price": 1.4100643428180528,
+    "trade_size": 4795,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 479,
+    "timestamp": 1745958524,
+    "amm_price": 1.3996201372338517,
+    "external_price": 1.3994023758413547,
+    "trade_size": 2730,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 480,
+    "timestamp": 1745958525,
+    "amm_price": 1.3994432323670687,
+    "external_price": 1.3998750325181442,
+    "trade_size": 4587,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 481,
+    "timestamp": 1745958526,
+    "amm_price": 1.3861318639721323,
+    "external_price": 1.3862177133149125,
+    "trade_size": 1292,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 482,
+    "timestamp": 1745958527,
+    "amm_price": 1.3850710878983814,
+    "external_price": 1.3852956393236766,
+    "trade_size": 2392,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 483,
+    "timestamp": 1745958528,
+    "amm_price": 1.404593603509815,
+    "external_price": 1.4050064500620614,
+    "trade_size": 3751,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 484,
+    "timestamp": 1745958529,
+    "amm_price": 1.3833058531566509,
+    "external_price": 1.3836653178680176,
+    "trade_size": 4497,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 485,
+    "timestamp": 1745958530,
+    "amm_price": 1.3891131739117433,
+    "external_price": 1.3894021080352623,
+    "trade_size": 2868,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 486,
+    "timestamp": 1745958530,
+    "amm_price": 1.376166991582026,
+    "external_price": 1.3759226707381278,
+    "trade_size": 3025,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 487,
+    "timestamp": 1745958531,
+    "amm_price": 1.3702267355135593,
+    "external_price": 1.3706090831241424,
+    "trade_size": 4351,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 488,
+    "timestamp": 1745958532,
+    "amm_price": 1.3847577571757559,
+    "external_price": 1.3848828357343925,
+    "trade_size": 848,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 489,
+    "timestamp": 1745958532,
+    "amm_price": 1.4142547883937546,
+    "external_price": 1.4140293018360721,
+    "trade_size": 4497,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 490,
+    "timestamp": 1745958533,
+    "amm_price": 1.4133294498106956,
+    "external_price": 1.4135707568440825,
+    "trade_size": 2491,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 491,
+    "timestamp": 1745958534,
+    "amm_price": 1.4017060804524115,
+    "external_price": 1.4021423394649193,
+    "trade_size": 4969,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 492,
+    "timestamp": 1745958535,
+    "amm_price": 1.4217891886838392,
+    "external_price": 1.4219286243030393,
+    "trade_size": 793,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 493,
+    "timestamp": 1745958535,
+    "amm_price": 1.4447754218731899,
+    "external_price": 1.4446620335821876,
+    "trade_size": 2556,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 494,
+    "timestamp": 1745958536,
+    "amm_price": 1.435534297435857,
+    "external_price": 1.4358744350128474,
+    "trade_size": 3699,
+    "toxic_trade": false
+  },
+  {
+    "tradeNumber": 495,
+    "timestamp": 1745958536,
+    "amm_price": 1.4447916832963226,
+    "external_price": 1.444561140812577,
+    "trade_size": 3671,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 496,
+    "timestamp": 1745958536,
+    "amm_price": 1.4288340832766246,
+    "external_price": 1.4287024771969965,
+    "trade_size": 1196,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 497,
+    "timestamp": 1745958536,
+    "amm_price": 1.4253636023705574,
+    "external_price": 1.4250848505873714,
+    "trade_size": 3877,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 498,
+    "timestamp": 1745958536,
+    "amm_price": 1.4092426096630633,
+    "external_price": 1.4091132719337722,
+    "trade_size": 1165,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 499,
+    "timestamp": 1745958536,
+    "amm_price": 1.4177295968050685,
+    "external_price": 1.4174762677113097,
+    "trade_size": 4013,
+    "toxic_trade": true
+  },
+  {
+    "tradeNumber": 500,
+    "timestamp": 1745958536,
+    "amm_price": 1.4403171302402475,
+    "external_price": 1.4401630691389637,
+    "trade_size": 3126,
+    "toxic_trade": true
+  }
+]

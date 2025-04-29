@@ -1,5 +1,6 @@
 const { ethers } = require("hardhat");
 const fs = require("fs");
+const { plot } = require("nodeplotlib");
 
 // Simulate external CEX price with small random shocks
 function evolveExternalPrice(currentPrice) {
@@ -16,15 +17,13 @@ function getAMMPrice(reserve0, reserve1) {
 // Calculate how much needs to be traded to restore AMM price to match external price
 function computeArbitrageSwap(reserve0, reserve1, externalPrice) {
     const ammPrice = reserve1 / reserve0;
+    const k = reserve0 * reserve1;
+
     if (ammPrice > externalPrice) {
-        // Need to buy token0 (increase reserve0) to lower price
-        const k = reserve0 * reserve1;
         const targetReserve0 = Math.sqrt(k / externalPrice);
         const delta = targetReserve0 - reserve0;
         return { direction: "buyToken0", amount: delta };
     } else if (ammPrice < externalPrice) {
-        // Need to buy token1 (increase reserve1) to raise price
-        const k = reserve0 * reserve1;
         const targetReserve1 = Math.sqrt(k * externalPrice);
         const delta = targetReserve1 - reserve1;
         return { direction: "buyToken1", amount: delta };
@@ -36,47 +35,44 @@ function computeArbitrageSwap(reserve0, reserve1, externalPrice) {
 async function main() {
     const [deployer] = await ethers.getSigners();
     const AMM = await ethers.getContractFactory("SimpleAMM");
-    const amm = await AMM.deploy(); // No .deployed() needed if constructor exists
+    const amm = await AMM.deploy();
     await amm.waitForDeployment();
     console.log(`✅ AMM deployed at: ${amm.target}`);
 
-    // Add initial liquidity
-    await amm.addLiquidity(1000, 1000);
-    console.log("✅ Initial liquidity added: 1000/1000");
+    await amm.addLiquidity(100000, 100000);
+    console.log("✅ Initial liquidity added: 100000/100000");
 
-    // Off-chain simulation variables
-    let reserve0 = 1000;
-    let reserve1 = 1000;
+    let reserve0 = 100000;
+    let reserve1 = 100000;
     let externalPrice = 1.0;
 
-    const feeMultiplier = 0.997; // 0.3% fee
-
+    const feeMultiplier = 0.997;
     const data = [];
 
-    for (let i = 1; i <= 500; i++) {  // simulate 500 trades
-        // 1. Evolve external ("true") price
+    for (let i = 1; i <= 500; i++) {
         externalPrice = evolveExternalPrice(externalPrice);
-
-        // 2. Random noise trader (small random trade)
-        const noiseTradeAmount = Math.floor(Math.random() * 10) + 1; // 1-10 tokens
-
-        // Simulate noise trader swapping token0 for token1
+        const noiseTradeAmount = Math.floor(Math.random() * 5000) + 1;
         await amm.swap(noiseTradeAmount);
 
-        // Update reserves based on noise trade
-        const effectiveAmount = noiseTradeAmount * feeMultiplier;
-        reserve0 += effectiveAmount;
-        reserve1 = (reserve0 * reserve1) / (reserve0 - effectiveAmount);
+        const dx = noiseTradeAmount;
+        const dxEff = dx * feeMultiplier;
+        const dy = reserve1 * dxEff / (reserve0 + dxEff);
 
-        // 3. Arbitrage step: realign AMM price to external price
+        reserve0 += dxEff;
+        reserve1 -= dy;
+
         const { direction, amount } = computeArbitrageSwap(reserve0, reserve1, externalPrice);
 
         if (direction === "buyToken0" && amount > 0) {
-            reserve0 += amount * feeMultiplier;
-            reserve1 = (reserve0 * reserve1) / (reserve0 - amount * feeMultiplier);
+            const amountEff = amount * feeMultiplier;
+            const dyArb = reserve1 * amountEff / (reserve0 + amountEff);
+            reserve0 += amountEff;
+            reserve1 -= dyArb;
         } else if (direction === "buyToken1" && amount > 0) {
-            reserve1 += amount * feeMultiplier;
-            reserve0 = (reserve0 * reserve1) / (reserve1 - amount * feeMultiplier);
+            const amountEff = amount * feeMultiplier;
+            const dxArb = reserve0 * amountEff / (reserve1 + amountEff);
+            reserve1 += amountEff;
+            reserve0 -= dxArb;
         }
 
         const ammPrice = getAMMPrice(reserve0, reserve1);
@@ -93,9 +89,33 @@ async function main() {
         console.log(`Trade ${i}: noise=${noiseTradeAmount}, amm=${ammPrice.toFixed(6)}, external=${externalPrice.toFixed(6)}`);
     }
 
-    // Save all simulated trades to file
     fs.writeFileSync("trade_data.json", JSON.stringify(data, null, 2));
-    console.log("✅ trade_data.json saved with AMM + external prices");
+    console.log("✅ trade_data.json saved");
+
+    // === PLOT ===
+    const tradeNumbers = data.map(d => d.tradeNumber);
+    const ammPrices = data.map(d => d.amm_price);
+    const externalPrices = data.map(d => d.external_price);
+
+    const traceAMM = {
+        x: tradeNumbers,
+        y: ammPrices,
+        type: 'scatter',
+        name: 'AMM Price'
+    };
+
+    const traceExternal = {
+        x: tradeNumbers,
+        y: externalPrices,
+        type: 'scatter',
+        name: 'External Price'
+    };
+
+    plot([traceAMM, traceExternal], {
+        title: 'AMM vs External Price',
+        xaxis: { title: 'Trade Number' },
+        yaxis: { title: 'Price' }
+    });
 }
 
 main().catch((error) => {

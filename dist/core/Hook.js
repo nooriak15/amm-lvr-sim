@@ -1,0 +1,2 @@
+// Hook.ts
+export {};

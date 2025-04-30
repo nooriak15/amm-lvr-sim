@@ -1,0 +1,402 @@
+[
+  {
+    "timestamp": 1746045877967,
+    "amm_price": 1,
+    "external_price": 0.9932365211313964,
+    "trade_size": 426,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877976,
+    "amm_price": 1.0085124788777284,
+    "external_price": 0.9859283514007351,
+    "trade_size": 569,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877976,
+    "amm_price": 1.0198582607233024,
+    "external_price": 0.9844795301981771,
+    "trade_size": 110,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877976,
+    "amm_price": 1.0220589659812622,
+    "external_price": 0.994189789984703,
+    "trade_size": 488,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877976,
+    "amm_price": 1.01214776675101,
+    "external_price": 0.9978002318997807,
+    "trade_size": 1061,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877976,
+    "amm_price": 1.033544117675388,
+    "external_price": 1.0034271751222608,
+    "trade_size": 979,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0533446858047488,
+    "external_price": 1.0112064216808405,
+    "trade_size": 489,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0429549993361225,
+    "external_price": 1.017373360599175,
+    "trade_size": 459,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0333419479914787,
+    "external_price": 1.0082337362481828,
+    "trade_size": 580,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0450487982584975,
+    "external_price": 1.0137233754459403,
+    "trade_size": 332,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0380612703830798,
+    "external_price": 1.0173513527734885,
+    "trade_size": 318,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.03143390127181,
+    "external_price": 1.0271024184642243,
+    "trade_size": 839,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0141300690402402,
+    "external_price": 1.0341872641018752,
+    "trade_size": 646,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0271434778012065,
+    "external_price": 1.0373066662515669,
+    "trade_size": 390,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.0190957150110975,
+    "external_price": 1.0287313569477776,
+    "trade_size": 696,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877977,
+    "amm_price": 1.004966695568923,
+    "external_price": 1.022615441976643,
+    "trade_size": 169,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.001580281266753,
+    "external_price": 1.0213550656027,
+    "trade_size": 803,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0176688424569553,
+    "external_price": 1.0310829860710113,
+    "trade_size": 947,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.9985564811890616,
+    "external_price": 1.0267359793427162,
+    "trade_size": 936,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.9803175158133777,
+    "external_price": 1.031278349083873,
+    "trade_size": 289,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.9859913082924144,
+    "external_price": 1.0269199906895043,
+    "trade_size": 1005,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0058494297842144,
+    "external_price": 1.0337655661680913,
+    "trade_size": 696,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.9920903260108036,
+    "external_price": 1.0248324974389442,
+    "trade_size": 350,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.9990048708048834,
+    "external_price": 1.0186007919827196,
+    "trade_size": 1078,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0206050050279853,
+    "external_price": 1.0210046150979566,
+    "trade_size": 754,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0052779926217439,
+    "external_price": 1.0277301097069917,
+    "trade_size": 1030,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0258297202933175,
+    "external_price": 1.0207177940315992,
+    "trade_size": 656,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0123728770410372,
+    "external_price": 1.0197126937722958,
+    "trade_size": 966,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.993033800668824,
+    "external_price": 1.0166855559502046,
+    "trade_size": 761,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.9782894236908789,
+    "external_price": 1.0165026146106213,
+    "trade_size": 392,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 0.985981367559504,
+    "external_price": 1.0216677777013707,
+    "trade_size": 983,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0054025669146784,
+    "external_price": 1.016225222494352,
+    "trade_size": 100,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877978,
+    "amm_price": 1.0074029400274367,
+    "external_price": 1.0107568461501184,
+    "trade_size": 528,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9968412722451266,
+    "external_price": 1.0057776160241558,
+    "trade_size": 939,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9784643111672997,
+    "external_price": 1.004302919798055,
+    "trade_size": 776,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9937217841914804,
+    "external_price": 1.0022973619057205,
+    "trade_size": 105,
+    "direction": "token1_to_token0",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9958099973880159,
+    "external_price": 1.0067498707593645,
+    "trade_size": 481,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9863470561399995,
+    "external_price": 1.0150837058741282,
+    "trade_size": 300,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9805539318728922,
+    "external_price": 1.0147246791067634,
+    "trade_size": 1011,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 1.000476320672084,
+    "external_price": 1.0063090553274021,
+    "trade_size": 1050,
+    "direction": "token0_to_token1",
+    "fee": 0.003
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9798489065235768,
+    "external_price": 1.0099170426921447,
+    "trade_size": 905,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.962697305984322,
+    "external_price": 1.006612662195363,
+    "trade_size": 870,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9466300826310322,
+    "external_price": 0.9995964409295198,
+    "trade_size": 107,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.948692494853888,
+    "external_price": 0.9988166280172533,
+    "trade_size": 901,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9661481757292488,
+    "external_price": 1.0010154392393524,
+    "trade_size": 1023,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9471960098395082,
+    "external_price": 1.0004329287882006,
+    "trade_size": 867,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9315671049623814,
+    "external_price": 0.9906590948960239,
+    "trade_size": 216,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.927733589306523,
+    "external_price": 0.9877934772000373,
+    "trade_size": 595,
+    "direction": "token0_to_token1",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9172952070334359,
+    "external_price": 0.995374207158121,
+    "trade_size": 366,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  },
+  {
+    "timestamp": 1746045877979,
+    "amm_price": 0.9242489971401145,
+    "external_price": 0.9880261834349978,
+    "trade_size": 979,
+    "direction": "token1_to_token0",
+    "fee": 0.01
+  }
+]

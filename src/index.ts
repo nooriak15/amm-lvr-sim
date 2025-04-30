@@ -5,9 +5,11 @@ import { HookManager } from "./core/HookManager.js";
 import { SwapContext } from "./core/Hook.js";
 import { DynamicFeeHook } from "./hooks/DynamicFeeHook.js";
 import { SwapResult } from "./core/AMM.js";
+import fs from "fs";
 
 const amm = new AMM(100000, 100000);
 const hooks = new HookManager();
+const tradeLog: any[] = [];
 hooks.register(new DynamicFeeHook(amm));
 
 let externalPrice = 1.0;
@@ -48,9 +50,24 @@ for (let i = 0; i < 50; i++) {
 
   hooks.runAfterSwap(swapContext, { amountOut: result.amountOut });
 
+  // Data output for LVR analysis
+  tradeLog.push({
+    timestamp: swapContext.timestamp,
+    amm_price: swapContext.ammPrice,
+    external_price: swapContext.externalPrice,
+    trade_size: swapContext.amountIn,
+    direction: swapContext.tokenIn === "token0" ? "token0_to_token1" : "token1_to_token0",
+    fee: amm.getFee()
+  });
+
   // Collect Stats
   // Need a collector of sorts to manage our data.
   console.log(
     `Trade ${i + 1} | ${tokenIn} → ${tokenIn === "token0" ? "token1" : "token0"} | AMM: ${amm.getPrice().toFixed(4)} | Oracle: ${externalPrice.toFixed(4)} | Fee: ${amm.getFee()}`
   );
 }
+
+// Write to output file
+fs.writeFileSync("trade_sim.json", JSON.stringify(tradeLog, null, 2));
+console.log("output written to trade_sim.json");
+
